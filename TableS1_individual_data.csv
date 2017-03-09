@@ -1,576 +1,576 @@
 "sample","putative species","nominal species","latitude","longitude","denominator","original reads","aligned reads","median coverage"
-"AMSR_111493_Ct_spal","C. spaldingi 1","C. spaldingi",-13.364,141.73,5818166,2015528,1634151,18
-"AMSR_111494_Ct_spal","C. spaldingi 1","C. spaldingi",-13.083,141.616,4959962,1355700,1089222,14
-"AMSR_111496_Ct_essi","C. essingtoni 1","C. essingtonii",-12.666,132.833,4879376,3070660,1855690,23
-"AMSR_138399_Ct_uber","C. orientalis 1","C. uber",-29.422,142.283,4454902,2792102,1871818,24
-"AMSR_152956_Ct_uber","C. orientalis 1","C. uber",-29.074,141.916,0,1794,457,5
-"AMSR_152993_Ct_uber","C. orientalis 1","C. uber",-29.733,141.867,4517469,1913702,1143320,15
-"AMSR_153434_Ct_uber","C. olympicus","C. uber",-33.748,143.582,4535864,3576910,2095672,30
-"ANWC_R05116_Ct_brev","C. brevipes","C. brevipes",-17,144.3,5955269,2315010,1954487,20
-"CUMV_14305_Ct_gran","C. grandis","C. grandis",-26.226,121.5575,3077968,1154904,793347,12
-"CUMV_14312_Ct_gran","C. grandis","C. grandis",-28.133,123.8667,5739539,3717548,2584954,32
-"CUMV_14357_Ct_dux","C. dux","C. dux",-26.226,121.5575,3612489,2075034,1387273,21
-"CUMV_14362_Ct_dux","C. dux","C. dux",-26.226,121.5575,4157411,2171708,1446272,21
-"CUMV_14364_Ct_dux","C. dux","C. dux",-28.133,123.8667,3586158,895640,563527,10
-"CUMV_14365_Ct_dux","C. dux","C. dux",-28.133,123.8667,2664028,901930,616808,11
-"CUMV_14366_Ct_dux","C. dux","C. dux",-28.133,123.8667,5643533,5807184,3597008,44
-"CUMV_14369_Ct_dux","C. dux","C. dux",-28.133,123.8667,2588951,748078,508275,9
-"CUMV_14370_Ct_dux","C. dux","C. dux",-28.133,123.8667,5243446,2707626,1691732,22
-"CUMV_14373_Ct_dux","C. dux","C. dux",-28.133,123.8667,5264511,2693882,1647178,21
-"CUMV_14374_Ct_dux","C. dux","C. dux",-28.133,123.8667,4871330,2343612,1530620,22
-"CUMV_14377_Ct_gree","C. greeri","C. greeri",-28.133,123.8667,4864491,3136570,2133678,23
-"CUMV_14378_Ct_gree","C. greeri","C. greeri",-28.133,123.8667,5742381,3492528,2466137,30
-"CUMV_14379_Ct_uber","C. uber 1","C. uber",-26.226,121.5575,3893689,1228170,886343,12
-"CUMV_14408_Ct_broo","C. brooksi","C. brooksi",-28.133,123.8667,4902570,4349724,2574852,35
-"CUMV_14409_Ct_broo","C. brooksi","C. brooksi",-28.133,123.8667,5062396,2216556,1451268,19
-"CUMV_14410_Ct_broo","C. brooksi","C. brooksi",-28.133,123.8667,4719048,1787808,1113804,15
-"CUMV_14411_Ct_broo","C. brooksi","C. brooksi",-28.133,123.8667,4542545,2550864,1629118,22
-"CUMV_14423_Ct_pian","C. piankai 1","C. piankai",-28.133,123.8667,3252625,1854824,1287444,16
-"CUMV_14467_Ct_leae","C. leae","C. leae",-28.133,123.8667,4848867,2245844,1549607,20
-"CUMV_14468_Ct_leae","C. leae","C. leae",-28.133,123.8667,4862414,2085678,1414157,18
-"CUMV_14469_Ct_leae","C. leae","C. leae",-28.133,123.8667,5341913,3849518,2677444,29
-"CUMV_14495_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3949919,2959182,1542210,26
-"CUMV_14496_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3538320,1535466,802401,15
-"CUMV_1450314572_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3387495,1403316,757692,14
-"CUMV_14509_Ct_pant","C. pantherinus","C. pantherinus",-28.133,123.8667,3872545,3426940,1831928,30
-"CUMV_14516_Ct_pant","C. pantherinus","C. pantherinus",-28.133,123.8667,3384733,1909414,964726,17
-"CUMV_14517_Ct_pant","C. pantherinus","C. pantherinus",-28.133,123.8667,3875732,2474094,1265386,22
-"CUMV_14518_Ct_pant","C. pantherinus","C. pantherinus",-28.133,123.8667,3978988,3132436,1574248,26
-"CUMV_14525_Ct_pant","C. pantherinus","C. pantherinus",-28.133,123.8667,3737750,1998884,1026440,18
-"CUMV_14526_Ct_pant","C. pantherinus","C. pantherinus",-28.133,123.8667,3825976,2396466,1216269,21
-"CUMV_14527_Ct_pant","C. pantherinus","C. pantherinus",-28.133,123.8667,3635594,2230612,1216829,23
-"CUMV_14545_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3179420,1129976,597174,12
-"CUMV_14546_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,2693663,825710,437760,9
-"CUMV_14547_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,4037774,3704504,1971477,33
-"CUMV_14550_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3347845,1382146,725856,14
-"CUMV_14551_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3660090,1729558,924930,17
-"CUMV_14552_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,2593648,833522,444592,10
-"CUMV_14558_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3444858,1383698,713818,13
-"CUMV_14559_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3616217,1660118,844193,15
-"CUMV_14560_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,2601213,910124,463888,10
-"CUMV_14561_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,1958064,705954,347276,9
-"CUMV_14563_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3649163,1919592,1003631,18
-"CUMV_14565_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,1638219,552618,277898,8
-"CUMV_14566_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3730186,2340374,1255637,23
-"CUMV_14567_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3740254,2012554,1037141,18
-"CUMV_14568_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3769177,2353474,1192660,20
-"CUMV_14569_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3683713,2142236,1156648,19
-"CUMV_14570_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,4086846,3309860,1821884,30
-"CUMV_1457314504_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3310814,1268098,692748,13
-"CUMV_1457414505_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,4148514,4756550,2606706,43
-"CUMV_1457514506_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,4087085,4719480,2453772,40
-"CUMV_14576_Ct_pant","C. pantherinus","C. pantherinus",-27.586,119.5208,3236540,3310944,1541844,29
-"CUMV_14589_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,2514066,2778808,1035139,23
-"CUMV_14590_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,1765961,977732,377720,11
-"CUMV_14591_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,2500009,2666556,1059138,25
-"CUMV_14593_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,2649621,2592330,1039440,23
-"CUMV_14594_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,1601882,818726,311323,9
-"CUMV_14595_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,2602831,2680774,1064158,23
-"CUMV_14596_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,1852553,1032510,388858,11
-"CUMV_14597_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,1748640,800758,314635,9
-"CUMV_14598_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,980667,430088,168301,7
-"CUMV_14599_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,2453401,1880786,727517,17
-"CUMV_14600_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,2579144,2203344,877458,20
-"CUMV_14601_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,2145668,1495428,579118,14
-"CUMV_14602_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,2479680,1772030,707743,16
-"CUMV_14604_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,2196517,1267342,519858,13
-"CUMV_14606_Ct_hele","C. inornatus 1","C. helenae",-28.133,123.8667,2174786,1825876,688613,18
-"CUMV_14611_Ct_hele","C. inornatus 1","C. helenae",-28.133,123.8667,2589996,3402216,1350675,31
-"CUMV_14655_Ct_hele","C. inornatus 1","C. helenae",-28.133,123.8667,1400888,543960,218817,8
-"CUMV_14656_Ct_hele","C. inornatus 1","C. helenae",-28.133,123.8667,2051112,1212948,474175,13
-"CUMV_14681_Ct_scho","C. schomburgkii 2","C. schomburgkii",-26.226,121.5575,2306595,758154,477896,10
-"CUMV_14688_Ct_scho","C. schomburgkii 2","C. schomburgkii",-28.133,123.8667,186,5189356,8590,27
-"CUMV_14700_Ct_scho","C. schomburgkii 2","C. schomburgkii",-27.586,119.5208,4159868,2126824,1383766,21
-"CUMV_14730_Ct_leon","C. leonhardii 2","C. leonhardii",-26.226,121.5575,4954548,3458454,2364626,27
-"CUMV_14742_Ct_leon","C. leonhardii 2","C. leonhardii",-28.133,123.8667,5331517,3827934,2539853,31
-"CUMV_14744_Ct_leon","C. leonhardii 2","C. leonhardii",-27.586,119.5208,5176481,2632726,1861965,25
-"CUMV_14811_Ct_aria","C. ariadnae","C. ariadnae",-26.226,121.5575,966844,324054,181441,6
-"CUMV_14812_Ct_aria","C. ariadnae","C. ariadnae",-26.226,121.5575,4718273,4521030,2756281,34
-"CUMV_14817_Ct_quat","C. quattuordecimlineatus 2","C. quattuordecimlineatus",-27.586,119.5208,6171890,4493216,3425260,29
-"CUMV_14820_Ct_quat","C. quattuordecimlineatus 2","C. quattuordecimlineatus",-27.586,119.5208,3835249,789826,542702,8
-"CUMV_14845_Ct_calu","C. nigrilineatus","C. calurus",-28.133,123.8667,3338800,2669350,1506933,26
-"CUMV_14847_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-28.133,123.8667,3973745,2265448,1447624,21
-"CUMV_14851_Ct_calu","C. calurus 1","C. calurus",-28.133,123.8667,2855489,979488,685394,11
-"CUMV_14858_Ct_calu","C. calurus 2","C. calurus",-26.226,121.5575,5627340,4599172,3516926,34
-"NA_ABTC03841_Ct_robu","C. spaldingi 5","C. robustus",-27,151.83,1047356,262866,170155,7
-"NA_ABTC10487_Ct_broo","C. brooksi","C. brooksi",-29.96667,123.7667,5427835,4053740,2474812,30
-"NA_ABTC10512_Ct_leae","C. leae","C. leae",-29.96667,123.7667,5358949,2942510,2032082,25
-"NA_ABTC113798_Ct_scho","C. schomburgkii 1","C. schomburgkii",-24.08083,143.1983,3985983,1759066,1273969,18
-"NA_ABTC113879_Ct_stra","C. strauchii 2","C. strauchii",-24.09389,143.3081,4300575,4394004,2667331,35
-"NA_ABTC113897_Ct_hebe","C. hebetior","C. hebetior",-26.76278,142.5239,5054435,2954384,2125929,25
-"NA_ABTC125975_Ct_allo","C. allotropis","C. allotropis",NA,NA,5053596,1386866,1026826,12
-"NA_ABTC12607_Ct_broo","C. brooksi","C. brooksi",-24.66667,131.8333,3135956,850608,539472,10
-"NA_ABTC12623_Ct_scho","C. schomburgkii 1","C. schomburgkii",-24.43333,131.8167,4168329,1641308,1039345,15
-"NA_ABTC60781_Ct_hele","C. inornatus 1","C. helenae",-20.83,130.42,1778623,3773726,1386665,40
-"NA_ABTC86833_Ct_regi","C. regius","C. regius",-34.58333,142.2167,4355245,1001506,749886,11
+"AMSR_111493_Ct_spal","C. spaldingi 1","C. spaldingi",-13.364,141.73,4561610,2015528,1634151,18
+"AMSR_111494_Ct_spal","C. spaldingi 1","C. spaldingi",-13.083,141.616,3406248,1355700,1089222,14
+"AMSR_111496_Ct_essi","C. essingtoni 1","C. essingtonii",-12.666,132.833,3968170,3070660,1855690,23
+"AMSR_138399_Ct_uber","C. orientalis 1","C. uber",-29.422,142.283,3548268,2792102,1871818,24
+"AMSR_152956_Ct_uber","C. orientalis 1","C. uber",-29.074,141.916,NA,1794,457,5
+"AMSR_152993_Ct_uber","C. orientalis 1","C. uber",-29.733,141.867,3260891,1913702,1143320,15
+"AMSR_153434_Ct_uber","C. olympicus","C. uber",-33.748,143.582,4156646,3576910,2095672,30
+"ANWC_R05116_Ct_brev","C. brevipes","C. brevipes",-17,144.3,4712141,2315010,1954487,20
+"CUMV_14305_Ct_gran","C. grandis","C. grandis",-26.226,121.5575,1608844,1154904,793347,12
+"CUMV_14312_Ct_gran","C. grandis","C. grandis",-28.133,123.8667,4914843,3717548,2584954,32
+"CUMV_14357_Ct_dux","C. dux","C. dux",-26.226,121.5575,2730327,2075034,1387273,21
+"CUMV_14362_Ct_dux","C. dux","C. dux",-26.226,121.5575,3290899,2171708,1446272,21
+"CUMV_14364_Ct_dux","C. dux","C. dux",-28.133,123.8667,1751329,895640,563527,10
+"CUMV_14365_Ct_dux","C. dux","C. dux",-28.133,123.8667,1292413,901930,616808,11
+"CUMV_14366_Ct_dux","C. dux","C. dux",-28.133,123.8667,5297517,5807184,3597008,44
+"CUMV_14369_Ct_dux","C. dux","C. dux",-28.133,123.8667,1140614,748078,508275,9
+"CUMV_14370_Ct_dux","C. dux","C. dux",-28.133,123.8667,4481888,2707626,1691732,22
+"CUMV_14373_Ct_dux","C. dux","C. dux",-28.133,123.8667,4431393,2693882,1647178,21
+"CUMV_14374_Ct_dux","C. dux","C. dux",-28.133,123.8667,4178600,2343612,1530620,22
+"CUMV_14377_Ct_gree","C. greeri","C. greeri",-28.133,123.8667,3797847,3136570,2133678,23
+"CUMV_14378_Ct_gree","C. greeri","C. greeri",-28.133,123.8667,4972593,3492528,2466137,30
+"CUMV_14379_Ct_uber","C. uber 1","C. uber",-26.226,121.5575,2212863,1228170,886343,12
+"CUMV_14408_Ct_broo","C. brooksi","C. brooksi",-28.133,123.8667,4394407,4349724,2574852,35
+"CUMV_14409_Ct_broo","C. brooksi","C. brooksi",-28.133,123.8667,4113447,2216556,1451268,19
+"CUMV_14410_Ct_broo","C. brooksi","C. brooksi",-28.133,123.8667,3508863,1787808,1113804,15
+"CUMV_14411_Ct_broo","C. brooksi","C. brooksi",-28.133,123.8667,3636002,2550864,1629118,22
+"CUMV_14423_Ct_pian","C. piankai 1","C. piankai",-28.133,123.8667,2237661,1854824,1287444,16
+"CUMV_14467_Ct_leae","C. leae","C. leae",-28.133,123.8667,3923127,2245844,1549607,20
+"CUMV_14468_Ct_leae","C. leae","C. leae",-28.133,123.8667,3775214,2085678,1414157,18
+"CUMV_14469_Ct_leae","C. leae","C. leae",-28.133,123.8667,4490326,3849518,2677444,29
+"CUMV_14495_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3580859,2959182,1542210,26
+"CUMV_14496_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,2661946,1535466,802401,15
+"CUMV_1450314572_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,2453026,1403316,757692,14
+"CUMV_14509_Ct_pant","C. pantherinus","C. pantherinus",-28.133,123.8667,3438675,3426940,1831928,30
+"CUMV_14516_Ct_pant","C. pantherinus","C. pantherinus",-28.133,123.8667,2626642,1909414,964726,17
+"CUMV_14517_Ct_pant","C. pantherinus","C. pantherinus",-28.133,123.8667,3341967,2474094,1265386,22
+"CUMV_14518_Ct_pant","C. pantherinus","C. pantherinus",-28.133,123.8667,3547530,3132436,1574248,26
+"CUMV_14525_Ct_pant","C. pantherinus","C. pantherinus",-28.133,123.8667,3080514,1998884,1026440,18
+"CUMV_14526_Ct_pant","C. pantherinus","C. pantherinus",-28.133,123.8667,3303989,2396466,1216269,21
+"CUMV_14527_Ct_pant","C. pantherinus","C. pantherinus",-28.133,123.8667,3133727,2230612,1216829,23
+"CUMV_14545_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,1958836,1129976,597174,12
+"CUMV_14546_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,1244738,825710,437760,9
+"CUMV_14547_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3702476,3704504,1971477,33
+"CUMV_14550_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,2317581,1382146,725856,14
+"CUMV_14551_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,2917868,1729558,924930,17
+"CUMV_14552_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,1250555,833522,444592,10
+"CUMV_14558_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,2363434,1383698,713818,13
+"CUMV_14559_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,2673591,1660118,844193,15
+"CUMV_14560_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,1270703,910124,463888,10
+"CUMV_14561_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,777034,705954,347276,9
+"CUMV_14563_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,2984882,1919592,1003631,18
+"CUMV_14565_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,571560,552618,277898,8
+"CUMV_14566_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3220868,2340374,1255637,23
+"CUMV_14567_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3051437,2012554,1037141,18
+"CUMV_14568_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3198488,2353474,1192660,20
+"CUMV_14569_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,2987892,2142236,1156648,19
+"CUMV_14570_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3720982,3309860,1821884,30
+"CUMV_1457314504_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,2282693,1268098,692748,13
+"CUMV_1457414505_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3930255,4756550,2606706,43
+"CUMV_1457514506_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3886779,4719480,2453772,40
+"CUMV_14576_Ct_pant","C. pantherinus","C. pantherinus",-27.586,119.5208,2811155,3310944,1541844,29
+"CUMV_14589_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,2102407,2778808,1035139,23
+"CUMV_14590_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,1012098,977732,377720,11
+"CUMV_14591_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,2169651,2666556,1059138,25
+"CUMV_14593_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,2256572,2592330,1039440,23
+"CUMV_14594_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,697672,818726,311323,9
+"CUMV_14595_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,2172353,2680774,1064158,23
+"CUMV_14596_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,1063758,1032510,388858,11
+"CUMV_14597_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,822581,800758,314635,9
+"CUMV_14598_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,284800,430088,168301,7
+"CUMV_14599_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,1888415,1880786,727517,17
+"CUMV_14600_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,2139925,2203344,877458,20
+"CUMV_14601_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,1528868,1495428,579118,14
+"CUMV_14602_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,1873845,1772030,707743,16
+"CUMV_14604_Ct_hele","C. inornatus 1","C. helenae",-26.226,121.5575,1478117,1267342,519858,13
+"CUMV_14606_Ct_hele","C. inornatus 1","C. helenae",-28.133,123.8667,1726608,1825876,688613,18
+"CUMV_14611_Ct_hele","C. inornatus 1","C. helenae",-28.133,123.8667,2307507,3402216,1350675,31
+"CUMV_14655_Ct_hele","C. inornatus 1","C. helenae",-28.133,123.8667,408982,543960,218817,8
+"CUMV_14656_Ct_hele","C. inornatus 1","C. helenae",-28.133,123.8667,1352808,1212948,474175,13
+"CUMV_14681_Ct_scho","C. schomburgkii 2","C. schomburgkii",-26.226,121.5575,1029013,758154,477896,10
+"CUMV_14688_Ct_scho","C. schomburgkii 2","C. schomburgkii",-28.133,123.8667,NA,5189356,8590,27
+"CUMV_14700_Ct_scho","C. schomburgkii 2","C. schomburgkii",-27.586,119.5208,3449403,2126824,1383766,21
+"CUMV_14730_Ct_leon","C. leonhardii 2","C. leonhardii",-26.226,121.5575,4071605,3458454,2364626,27
+"CUMV_14742_Ct_leon","C. leonhardii 2","C. leonhardii",-28.133,123.8667,4605065,3827934,2539853,31
+"CUMV_14744_Ct_leon","C. leonhardii 2","C. leonhardii",-27.586,119.5208,4474241,2632726,1861965,25
+"CUMV_14811_Ct_aria","C. ariadnae","C. ariadnae",-26.226,121.5575,127912,324054,181441,6
+"CUMV_14812_Ct_aria","C. ariadnae","C. ariadnae",-26.226,121.5575,4064129,4521030,2756281,34
+"CUMV_14817_Ct_quat","C. quattuordecimlineatus 2","C. quattuordecimlineatus",-27.586,119.5208,4891420,4493216,3425260,29
+"CUMV_14820_Ct_quat","C. quattuordecimlineatus 2","C. quattuordecimlineatus",-27.586,119.5208,1383421,789826,542702,8
+"CUMV_14845_Ct_calu","C. nigrilineatus","C. calurus",-28.133,123.8667,2772160,2669350,1506933,26
+"CUMV_14847_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-28.133,123.8667,3193288,2265448,1447624,21
+"CUMV_14851_Ct_calu","C. calurus 1","C. calurus",-28.133,123.8667,1385148,979488,685394,11
+"CUMV_14858_Ct_calu","C. calurus 2","C. calurus",-26.226,121.5575,4504294,4599172,3516926,34
+"NA_ABTC03841_Ct_robu","C. spaldingi 5","C. robustus",-27,151.83,212444,262866,170155,7
+"NA_ABTC10487_Ct_broo","C. brooksi","C. brooksi",-29.96667,123.7667,4821564,4053740,2474812,30
+"NA_ABTC10512_Ct_leae","C. leae","C. leae",-29.96667,123.7667,4540687,2942510,2032082,25
+"NA_ABTC113798_Ct_scho","C. schomburgkii 1","C. schomburgkii",-24.08083,143.1983,3069065,1759066,1273969,18
+"NA_ABTC113879_Ct_stra","C. strauchii 2","C. strauchii",-24.09389,143.3081,3681117,4394004,2667331,35
+"NA_ABTC113897_Ct_hebe","C. hebetior","C. hebetior",-26.76278,142.5239,4285140,2954384,2125929,25
+"NA_ABTC125975_Ct_allo","C. allotropis","C. allotropis",NA,NA,3241515,1386866,1026826,12
+"NA_ABTC12607_Ct_broo","C. brooksi","C. brooksi",-24.66667,131.8333,1510984,850608,539472,10
+"NA_ABTC12623_Ct_scho","C. schomburgkii 1","C. schomburgkii",-24.43333,131.8167,2939706,1641308,1039345,15
+"NA_ABTC60781_Ct_hele","C. inornatus 1","C. helenae",-20.83,130.42,1604554,3773726,1386665,40
+"NA_ABTC86833_Ct_regi","C. regius","C. regius",-34.58333,142.2167,2611003,1001506,749886,11
 "NA_CCM0044_Ct_euta",NA,"C. eutaenius",-19.13263,146.86902,NA,NA,NA,NA
-"NA_CCM0090_Ct_late","C. inornatus 1","C. lateralis",-18.82119,143.40658,1720164,2295542,765688,21
-"NA_CCM0535_Ct_inor","C. superciliaris 2","C. inornatus",-15.61091,131.11597,2322282,1954684,900523,17
-"NA_CCM0750_Ct_haly","C. halysis","C. halysis",-15.1276,126.1352,4629927,2603916,1672109,22
-"NA_CCM0751_Ct_haly","C. halysis","C. halysis",-15.1276,126.1352,4954706,4387438,2727752,36
-"NA_CCM0753_Ct_robu","C. inornatus 2","C. robustus",-15.1393,126.1571,3163217,2391704,1156357,21
-"NA_CCM0804_Ct_haly","C. halysis","C. halysis",-15.1328,126.1478,4829919,2490426,1611492,19
-"NA_CCM0816_Ct_haly","C. halysis","C. halysis",-15.1328,126.1478,4953451,2616610,1753442,21
-"NA_CCM0817_Ct_haly","C. halysis","C. halysis",-15.1328,126.1478,4574300,3316424,2042831,28
-"NA_CCM0820_Ct_haly","C. halysis","C. halysis",-15.1361,126.1523,3807867,1333688,805592,12
-"NA_CCM0823_Ct_robu","C. inornatus 2","C. robustus",-15.3383,126.5917,2743622,1457602,681651,13
-"NA_CCM0830_Ct_inor","C. inornatus 2","C. inornatus",-15.3394,126.5893,2815155,1617092,767686,15
-"NA_CCM0847_Ct_robu","C. inornatus 2","C. robustus",-15.1328,126.1478,2860692,1742524,841254,16
-"NA_CCM0848_Ct_inor","C. inornatus 1","C. inornatus",-15.2002,125.9067,1688566,2521786,835803,24
-"NA_CCM0849_Ct_inor","C. inornatus 2","C. inornatus",-15.2002,125.9067,3055614,2621130,1229909,22
-"NA_CCM0850_Ct_inor","C. inornatus 2","C. inornatus",-15.1989,125.9035,3357634,1821122,852465,15
-"NA_CCM0946_Ct_inor","C. inornatus 2","C. inornatus",-14.51903,126.45811,3384433,2881344,1401053,25
-"NA_CCM0947_Ct_inor","C. inornatus 2","C. inornatus",-14.73119,126.46005,2088858,727966,340345,9
-"NA_CCM0956_Ct_robu","C. spaldingi 3","C. robustus",-14.75187,126.47722,4032366,3535716,1995371,30
-"NA_CCM0978_Ct_deca","C. decaneurus 1","C. decaneurus",-14.73666,126.46609,7351462,3996366,3176964,24
-"NA_CCM0980_Ct_mast","C. inornatus 2","C. mastigura",-14.74225,126.46691,3542794,2831218,1351278,23
-"NA_CCM1006_Ct_ehma","C. ehmanni","C. ehmanni",-14.88556,126.35986,5916982,4798424,3691767,29
-"NA_CCM1013_Ct_ehma","C. ehmanni","C. ehmanni",-14.88556,126.35986,6339400,5896540,4631764,36
-"NA_CCM1061_Ct_sp","C. inornatus 2","C. NA",-16.0969,126.5112,3461169,3884606,1814381,32
-"NA_CCM1206_Ct_robu","C. inornatus 2","C. robustus",-14.671,125.733,3384852,4763756,2216633,40
-"NA_CCM1249_Ct_inor","C. inornatus 1","C. inornatus",-17.06662,125.2501,1841762,3344088,902097,23
-"NA_CCM1388_Ct_robu","C. spaldingi 3","C. robustus",-16.4927,125.3447,4739010,2543296,1579148,23
-"NA_CCM1389_Ct_robu","C. spaldingi 3","C. robustus",-16.4668,125.3723,3763428,5939048,1735669,22
-"NA_CCM1390_Ct_inor","C. inornatus 2","C. inornatus",-16.49954,125.33637,3428065,4162614,1949477,34
-"NA_CCM1409_Ct_robu","C. spaldingi 3","C. robustus",-16.4668,125.3723,5324385,6332648,4065685,54
-"NA_CCM1412_Ct_robu","C. spaldingi 3","C. robustus",-16.494,125.3417,4908363,3128206,1973470,28
-"NA_CCM1415_Ct_robu","C. spaldingi 3","C. robustus",-16.4894,125.3518,4025872,2351478,1485584,25
-"NA_CCM1424_Ct_ehma","C. halysis","C. ehmanni",-16.4984,125.3554,5016377,3053696,1856629,25
-"NA_CCM1425_Ct_ehma","C. halysis","C. ehmanni",-16.494,125.3417,4659193,2069348,1238091,17
-"NA_CCM1444_Ct_inor","C. inornatus 1","C. inornatus",-17.2932,127.2175,2066156,2523290,931858,25
-"NA_CCM1445_Ct_inor","C. inornatus 1","C. inornatus",-17.2923,127.172,2171077,3446164,1262873,33
-"NA_CCM1470_Ct_inor","C. piankai 2","C. inornatus",-17.2974,127.1902,1453743,1108254,362492,11
-"NA_CCM1529_Ct_inor","C. inornatus 2","C. inornatus",-16.81627,126.07679,3318885,2299462,1059914,19
-"NA_CCM1530_Ct_robu","C. inornatus 1","C. robustus",-16.82743,126.21642,2080516,2459002,883186,23
-"NA_CCM1579_Ct_inor","C. inornatus 2","C. inornatus",-16.53559,126.12857,1735283,2282758,575211,21
-"NA_CCM1580_Ct_inor","C. inornatus 1","C. inornatus",-16.83117,126.22814,2217020,3832956,1386690,36
-"NA_CCM1710_Ct_inor","C. inornatus 1","C. inornatus",-15.29606,131.58511,2150714,2056020,776188,21
-"NA_DLR0038_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,2177617,661984,330501,8
-"NA_DLR0053_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,2199629,708012,346430,8
-"NA_DLR0176_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3750585,2046998,1043601,18
-"NA_DLR0549_Ct_broo","C. brooksi","C. brooksi",-28.133,123.8667,4716612,3576032,1977701,26
-"NMVD_67682_Ct_saxa","C. inornatus 1","C. saxatilis",-23.7,132.7,1535676,1548240,556203,18
-"NMVD_67793_Ct_leae","C. inornatus 1","C. leae",-24.0425,132.706,2349596,2122306,795639,18
-"NTMR_13503_Ct_saxa","C. superciliaris 2","C. saxatilis",-16.823,130.42,1737256,1359026,702618,13
-"NTMR_13629_Ct_gree","C. greeri","C. greeri",-17.617,133.517,4742234,2419628,1598321,22
-"NTMR_13717_Ct_essi","C. essingtoni 1","C. essingtonii",-12.575,131.825,5042012,3796644,2361807,29
-"NTMR_13838_Ct_bore","C. spaldingi 3","C. borealis",-13.03,132.43,3901703,3693364,2173027,33
-"NTMR_14947_Ct_calu","C. calurus 1","C. calurus",-20.867,130.267,5289377,2091458,1398524,18
-"NTMR_16195_Ct_vert","C. vertebralis","C. vertebralis",-11.95,134,6844657,3081968,2602489,24
-"NTMR_16340_Ct_inor","C. superciliaris 2","C. inornatus",-17.3,131,356009,202640,88205,6
+"NA_CCM0090_Ct_late","C. inornatus 1","C. lateralis",-18.82119,143.40658,1381868,2295542,765688,21
+"NA_CCM0535_Ct_inor","C. superciliaris 2","C. inornatus",-15.61091,131.11597,1634331,1954684,900523,17
+"NA_CCM0750_Ct_haly","C. halysis","C. halysis",-15.1276,126.1352,3839386,2603916,1672109,22
+"NA_CCM0751_Ct_haly","C. halysis","C. halysis",-15.1276,126.1352,4379496,4387438,2727752,36
+"NA_CCM0753_Ct_robu","C. inornatus 2","C. robustus",-15.1393,126.1571,2634141,2391704,1156357,21
+"NA_CCM0804_Ct_haly","C. halysis","C. halysis",-15.1328,126.1478,3806611,2490426,1611492,19
+"NA_CCM0816_Ct_haly","C. halysis","C. halysis",-15.1328,126.1478,4032107,2616610,1753442,21
+"NA_CCM0817_Ct_haly","C. halysis","C. halysis",-15.1328,126.1478,3872961,3316424,2042831,28
+"NA_CCM0820_Ct_haly","C. halysis","C. halysis",-15.1361,126.1523,2290577,1333688,805592,12
+"NA_CCM0823_Ct_robu","C. inornatus 2","C. robustus",-15.3383,126.5917,1848800,1457602,681651,13
+"NA_CCM0830_Ct_inor","C. inornatus 2","C. inornatus",-15.3394,126.5893,2041475,1617092,767686,15
+"NA_CCM0847_Ct_robu","C. inornatus 2","C. robustus",-15.1328,126.1478,2135607,1742524,841254,16
+"NA_CCM0848_Ct_inor","C. inornatus 1","C. inornatus",-15.2002,125.9067,1394930,2521786,835803,24
+"NA_CCM0849_Ct_inor","C. inornatus 2","C. inornatus",-15.2002,125.9067,2518945,2621130,1229909,22
+"NA_CCM0850_Ct_inor","C. inornatus 2","C. inornatus",-15.1989,125.9035,2581186,1821122,852465,15
+"NA_CCM0946_Ct_inor","C. inornatus 2","C. inornatus",-14.51903,126.45811,2958524,2881344,1401053,25
+"NA_CCM0947_Ct_inor","C. inornatus 2","C. inornatus",-14.73119,126.46005,824272,727966,340345,9
+"NA_CCM0956_Ct_robu","C. spaldingi 3","C. robustus",-14.75187,126.47722,3371971,3535716,1995371,30
+"NA_CCM0978_Ct_deca","C. decaneurus 1","C. decaneurus",-14.73666,126.46609,5693643,3996366,3176964,24
+"NA_CCM0980_Ct_mast","C. inornatus 2","C. mastigura",-14.74225,126.46691,3138578,2831218,1351278,23
+"NA_CCM1006_Ct_ehma","C. ehmanni","C. ehmanni",-14.88556,126.35986,4438865,4798424,3691767,29
+"NA_CCM1013_Ct_ehma","C. ehmanni","C. ehmanni",-14.88556,126.35986,4920162,5896540,4631764,36
+"NA_CCM1061_Ct_sp","C. inornatus 2","C. NA",-16.0969,126.5112,3205137,3884606,1814381,32
+"NA_CCM1206_Ct_robu","C. inornatus 2","C. robustus",-14.671,125.733,3201548,4763756,2216633,40
+"NA_CCM1249_Ct_inor","C. inornatus 1","C. inornatus",-17.06662,125.2501,1457129,3344088,902097,23
+"NA_CCM1388_Ct_robu","C. spaldingi 3","C. robustus",-16.4927,125.3447,3911560,2543296,1579148,23
+"NA_CCM1389_Ct_robu","C. spaldingi 3","C. robustus",-16.4668,125.3723,2930420,5939048,1735669,22
+"NA_CCM1390_Ct_inor","C. inornatus 2","C. inornatus",-16.49954,125.33637,3205854,4162614,1949477,34
+"NA_CCM1409_Ct_robu","C. spaldingi 3","C. robustus",-16.4668,125.3723,4780028,6332648,4065685,54
+"NA_CCM1412_Ct_robu","C. spaldingi 3","C. robustus",-16.494,125.3417,4185509,3128206,1973470,28
+"NA_CCM1415_Ct_robu","C. spaldingi 3","C. robustus",-16.4894,125.3518,3343135,2351478,1485584,25
+"NA_CCM1424_Ct_ehma","C. halysis","C. ehmanni",-16.4984,125.3554,4317617,3053696,1856629,25
+"NA_CCM1425_Ct_ehma","C. halysis","C. ehmanni",-16.494,125.3417,3657981,2069348,1238091,17
+"NA_CCM1444_Ct_inor","C. inornatus 1","C. inornatus",-17.2932,127.2175,1763747,2523290,931858,25
+"NA_CCM1445_Ct_inor","C. inornatus 1","C. inornatus",-17.2923,127.172,1926584,3446164,1262873,33
+"NA_CCM1470_Ct_inor","C. piankai 2","C. inornatus",-17.2974,127.1902,823833,1108254,362492,11
+"NA_CCM1529_Ct_inor","C. inornatus 2","C. inornatus",-16.81627,126.07679,2787719,2299462,1059914,19
+"NA_CCM1530_Ct_robu","C. inornatus 1","C. robustus",-16.82743,126.21642,1764873,2459002,883186,23
+"NA_CCM1579_Ct_inor","C. inornatus 2","C. inornatus",-16.53559,126.12857,1453616,2282758,575211,21
+"NA_CCM1580_Ct_inor","C. inornatus 1","C. inornatus",-16.83117,126.22814,2009402,3832956,1386690,36
+"NA_CCM1710_Ct_inor","C. inornatus 1","C. inornatus",-15.29606,131.58511,1824339,2056020,776188,21
+"NA_DLR0038_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,784346,661984,330501,8
+"NA_DLR0053_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,819480,708012,346430,8
+"NA_DLR0176_Ct_pant","C. pantherinus","C. pantherinus",-26.226,121.5575,3039975,2046998,1043601,18
+"NA_DLR0549_Ct_broo","C. brooksi","C. brooksi",-28.133,123.8667,4014986,3576032,1977701,26
+"NMVD_67682_Ct_saxa","C. inornatus 1","C. saxatilis",-23.7,132.7,1182239,1548240,556203,18
+"NMVD_67793_Ct_leae","C. inornatus 1","C. leae",-24.0425,132.706,1863945,2122306,795639,18
+"NTMR_13503_Ct_saxa","C. superciliaris 2","C. saxatilis",-16.823,130.42,914690,1359026,702618,13
+"NTMR_13629_Ct_gree","C. greeri","C. greeri",-17.617,133.517,4018776,2419628,1598321,22
+"NTMR_13717_Ct_essi","C. essingtoni 1","C. essingtonii",-12.575,131.825,4204426,3796644,2361807,29
+"NTMR_13838_Ct_bore","C. spaldingi 3","C. borealis",-13.03,132.43,3262277,3693364,2173027,33
+"NTMR_14947_Ct_calu","C. calurus 1","C. calurus",-20.867,130.267,4150768,2091458,1398524,18
+"NTMR_16195_Ct_vert","C. vertebralis","C. vertebralis",-11.95,134,5504334,3081968,2602489,24
+"NTMR_16340_Ct_inor","C. superciliaris 2","C. inornatus",-17.3,131,51381,202640,88205,6
 "NTMR_17738_Ct_cogg",NA,"C. coggeri",-12.5,132.85,NA,NA,NA,NA
-"NTMR_17739_Ct_bore","C. spaldingi 3","C. borealis",-12.37,130.85,3354111,2112184,1247099,22
-"NTMR_18309_Ct_regi","C. regius","C. regius",-24.065,132.744167,1706546,514730,336735,9
-"NTMR_18323_Ct_robu","C. spaldingi 3","C. robustus",-15.16083,131.6692,3368452,1835786,1109010,19
-"NTMR_20364_Ct_arnh","C. arnhemensis","C. arnhemensis",-12.5,132.92,5931005,3384748,2821524,22
-"NTMR_20628_Ct_saxa","C. inornatus 1","C. saxatilis",-24.1,132.7,1508963,2411290,813297,25
-"NTMR_20687_Ct_robu","C. inornatus 1","C. robustus",-13.3,131.1,316203,229110,64623,7
-"NTMR_20846_Ct_saxa","C. superciliaris 1","C. saxatilis",-12.9,132.67,2099041,991092,608905,11
+"NTMR_17739_Ct_bore","C. spaldingi 3","C. borealis",-12.37,130.85,2701025,2112184,1247099,22
+"NTMR_18309_Ct_regi","C. regius","C. regius",-24.065,132.744167,686448,514730,336735,9
+"NTMR_18323_Ct_robu","C. spaldingi 3","C. robustus",-15.16083,131.6692,2583177,1835786,1109010,19
+"NTMR_20364_Ct_arnh","C. arnhemensis","C. arnhemensis",-12.5,132.92,4301738,3384748,2821524,22
+"NTMR_20628_Ct_saxa","C. inornatus 1","C. saxatilis",-24.1,132.7,1248386,2411290,813297,25
+"NTMR_20687_Ct_robu","C. inornatus 1","C. robustus",-13.3,131.1,61541,229110,64623,7
+"NTMR_20846_Ct_saxa","C. superciliaris 1","C. saxatilis",-12.9,132.67,1060033,991092,608905,11
 "NTMR_20847_Ct_vert",NA,"C. vertebralis",-13.03,132.43,NA,NA,NA,NA
-"NTMR_20881_Ct_gagu","C. gagudju","C. gagudju",-12.67,132.91,1871162,498816,302459,8
-"NTMR_21670_Ct_spal","C. spaldingi 2","C. spaldingi",-15.533,133.183,5011410,3066086,2197909,28
-"NTMR_22166_Ct_robu","C. spaldingi 4","C. robustus",-13.26472,130.9633,5567975,3107972,2592037,31
-"NTMR_22167_Ct_bore","C. spaldingi 3","C. borealis",-13.265,130.962222,1580756,546560,317806,9
-"NTMR_22175_Ct_robu","C. spaldingi 3","C. robustus",-13.265,130.961389,2949896,4752684,2698524,46
-"NTMR_22188_Ct_essi","C. essingtoni 1","C. essingtonii",-13.41361,130.8972,4737451,3496330,2280720,33
-"NTMR_22191_Ct_essi","C. essingtoni 1","C. essingtonii",-13.414,130.897222,3027756,2725480,1706203,17
-"NTMR_22298_Ct_spal","C. spaldingi 2","C. spaldingi",-15.48333,135.4122,6051934,6030504,4460780,53
-"NTMR_22299_Ct_spal","C. spaldingi 2","C. spaldingi",-15.53306,135.4081,6028375,5133874,3789110,46
-"NTMR_22301_Ct_robu","C. spaldingi 3","C. robustus",-15.533,135.408056,1525907,1855944,290409,9
-"NTMR_22325_Ct_spal","C. spaldingi 2","C. spaldingi",-16.01583,135.6669,6111771,5650734,4147115,50
-"NTMR_22387_Ct_mili","C. militaris","C. militaris",-15.835,129.108611,5085098,2040578,1634924,15
-"NTMR_22432_Ct_saxa","C. superciliaris 1","C. saxatilis",-15.578,135.429722,2335866,936834,643461,11
-"NTMR_22441_Ct_stri","C. striaticeps","C. striaticeps",-15.719,135.470833,3670454,1287558,923123,13
-"NTMR_22620_Ct_robu","C. spaldingi 3","C. robustus",-15.30667,135.3408,4004219,4651808,2799170,39
-"NTMR_22621_Ct_spal","C. spaldingi 2","C. spaldingi",-15.30667,135.3408,4569701,1589174,1203363,17
-"NTMR_22622_Ct_spal","C. spaldingi 2","C. spaldingi",-15.30667,135.3408,4915195,2211574,1685289,22
-"NTMR_22934_Ct_robu","C. spaldingi 3","C. robustus",-15.307,129.158333,1310956,367116,220145,8
-"NTMR_23004_Ct_bore","C. spaldingi 3","C. borealis",-11.78222,130.7744,3794731,3808254,2195993,38
-"NTMR_23150_Ct_cogg","C. coggeri","C. coggeri",-12.383,133.075833,2247663,915564,637987,11
-"NTMR_23791_Ct_robu","C. spaldingi 3","C. robustus",-16.853,130.185556,2243390,940472,567429,13
-"NTMR_23960_Ct_robu","C. spaldingi 3","C. robustus",-12.2175,134.9847,4123288,3899692,2271912,36
-"NTMR_25649_Ct_leon","C. leonhardii 1","C. leonhardii",-25.845,133.310556,4217204,3038920,1962320,19
-"NTMR_25983_Ct_spal","C. superciliaris 2","C. spaldingi",-16.03778,130.79,3224657,4756076,2327733,39
-"NTMR_26117_Ct_inor","C. superciliaris 1","C. inornatus",-13.283,133.533333,2771202,1857664,1135833,17
-"QM_48384_Ct_robu","C. spaldingi 5","C. robustus",-22.4,143,1653435,439074,273911,8
-"QM_59674_Ct_ingr","C. ingrami","C. ingrami",-26.536,149.42,3806513,1212968,943429,12
-"QM_62377_Ct_broo","C. euclae","C. brooksi",-25.65,140.233333,2120639,704710,343314,8
+"NTMR_20881_Ct_gagu","C. gagudju","C. gagudju",-12.67,132.91,701296,498816,302459,8
+"NTMR_21670_Ct_spal","C. spaldingi 2","C. spaldingi",-15.533,133.183,4200093,3066086,2197909,28
+"NTMR_22166_Ct_robu","C. spaldingi 4","C. robustus",-13.26472,130.9633,4598548,3107972,2592037,31
+"NTMR_22167_Ct_bore","C. spaldingi 3","C. borealis",-13.265,130.962222,662561,546560,317806,9
+"NTMR_22175_Ct_robu","C. spaldingi 3","C. robustus",-13.265,130.961389,2660870,4752684,2698524,46
+"NTMR_22188_Ct_essi","C. essingtoni 1","C. essingtonii",-13.41361,130.8972,4146270,3496330,2280720,33
+"NTMR_22191_Ct_essi","C. essingtoni 1","C. essingtonii",-13.414,130.897222,1991095,2725480,1706203,17
+"NTMR_22298_Ct_spal","C. spaldingi 2","C. spaldingi",-15.48333,135.4122,5603415,6030504,4460780,53
+"NTMR_22299_Ct_spal","C. spaldingi 2","C. spaldingi",-15.53306,135.4081,5536236,5133874,3789110,46
+"NTMR_22301_Ct_robu","C. spaldingi 3","C. robustus",-15.533,135.408056,599428,1855944,290409,9
+"NTMR_22325_Ct_spal","C. spaldingi 2","C. spaldingi",-16.01583,135.6669,5651614,5650734,4147115,50
+"NTMR_22387_Ct_mili","C. militaris","C. militaris",-15.835,129.108611,3367850,2040578,1634924,15
+"NTMR_22432_Ct_saxa","C. superciliaris 1","C. saxatilis",-15.578,135.429722,1163714,936834,643461,11
+"NTMR_22441_Ct_stri","C. striaticeps","C. striaticeps",-15.719,135.470833,2234252,1287558,923123,13
+"NTMR_22620_Ct_robu","C. spaldingi 3","C. robustus",-15.30667,135.3408,3303833,4651808,2799170,39
+"NTMR_22621_Ct_spal","C. spaldingi 2","C. spaldingi",-15.30667,135.3408,3405939,1589174,1203363,17
+"NTMR_22622_Ct_spal","C. spaldingi 2","C. spaldingi",-15.30667,135.3408,3979021,2211574,1685289,22
+"NTMR_22934_Ct_robu","C. spaldingi 3","C. robustus",-15.307,129.158333,438788,367116,220145,8
+"NTMR_23004_Ct_bore","C. spaldingi 3","C. borealis",-11.78222,130.7744,3242353,3808254,2195993,38
+"NTMR_23150_Ct_cogg","C. coggeri","C. coggeri",-12.383,133.075833,1182055,915564,637987,11
+"NTMR_23791_Ct_robu","C. spaldingi 3","C. robustus",-16.853,130.185556,1418444,940472,567429,13
+"NTMR_23960_Ct_robu","C. spaldingi 3","C. robustus",-12.2175,134.9847,3620609,3899692,2271912,36
+"NTMR_25649_Ct_leon","C. leonhardii 1","C. leonhardii",-25.845,133.310556,2945229,3038920,1962320,19
+"NTMR_25983_Ct_spal","C. superciliaris 2","C. spaldingi",-16.03778,130.79,2717348,4756076,2327733,39
+"NTMR_26117_Ct_inor","C. superciliaris 1","C. inornatus",-13.283,133.533333,2026806,1857664,1135833,17
+"QM_48384_Ct_robu","C. spaldingi 5","C. robustus",-22.4,143,639641,439074,273911,8
+"QM_59674_Ct_ingr","C. ingrami","C. ingrami",-26.536,149.42,2167004,1212968,943429,12
+"QM_62377_Ct_broo","C. euclae","C. brooksi",-25.65,140.233333,644755,704710,343314,8
 "QM_76028_Ct_euta",NA,"C. eutaenius",-17.15,144.467,NA,NA,NA,NA
 "QM_82086_Ct_spal",NA,"C. spaldingi",-15.8,145.25,NA,NA,NA,NA
-"QM_82940_Ct_ingr","C. ingrami","C. ingrami",-26.163,147.4575,1287,8598,3961,5
-"QM_84335_Ct_quin","C. quinkan","C. quinkan",-15.683,144.55,4848844,5050478,3889900,25
-"QM_87405_Ct_rosa","C. rosarium","C. rosarium",-20.724,145.179,5060296,2319746,1889308,18
-"QMJ_62372_Ct_regi","C. regius","C. regius",-25.65,140.2333,2866996,687052,454175,8
-"QMJ_62373_Ct_asta","C. astarte","C. astarte",-25.36667,141.4667,5860931,4549976,3279648,34
-"QMJ_62380_Ct_dux","C. dux","C. dux",-23.83333,138.0833,4477231,1823460,1243304,19
-"QMJ_74401_Ct_zebr","C. zebrilla","C. zebrilla",-20.16389,144.5183,4658788,1744372,1237585,17
-"SAMAR_24688_Ct_leae","C. leae","C. leae",-28.66667,140.2167,4897991,2833652,1885821,25
-"SAMAR_25378_Ct_scho","C. schomburgkii 2","C. schomburgkii",-30.8,132.1167,4489977,3261138,2153564,32
-"SAMAR_25605_Ct_regi",NA,"C. regius",-30.8,132.1167,6454183,3216320,2690717,30
-"SAMAR_25645_Ct_orie","C. orientalis 1","C. orientalis",-31.53333,132.2667,3466267,2224086,1414352,19
-"SAMAR_25688_Ct_eucl","C. euclae","C. euclae",-31.49222,131.2667,3845365,2001080,1127484,18
-"SAMAR_26265_Ct_scho","C. schomburgkii 2","C. schomburgkii",-31.61389,129.1056,4425880,3033550,1935478,26
-"SAMAR_28517_Ct_olym","C. olympicus","C. olympicus",-32.33333,136.2833,4269608,2652258,1598123,25
-"SAMAR_29853_Ct_leae","C. leae","C. leae",-25.5,131.8167,4151963,1271328,852598,12
-"SAMAR_29939_Ct_broo","C. brooksi","C. brooksi",-25.5,131.8167,5103721,3101966,1970561,26
-"SAMAR_29946_Ct_dux","C. dux","C. dux",-25.5,131.8167,4619609,2042038,1339499,18
-"SAMAR_31877_Ct_regi","C. regius","C. regius",-30.92389,134.0303,5367159,2903122,2229441,28
-"SAMAR_31889_Ct_leae","C. leae","C. leae",-30.89278,134.1,5198497,2869264,2092158,26
-"SAMAR_32029_Ct_broo","C. brooksi","C. brooksi",-30.58556,132.2392,4326032,2093672,1315918,20
-"SAMAR_32054_Ct_leae","C. leae","C. leae",-30.55194,132.145,5147487,2398822,1748586,23
-"SAMAR_32255_Ct_scho","C. schomburgkii 2","C. schomburgkii",-29.44528,130.1744,3614401,1672768,1088513,19
-"SAMAR_32289_Ct_regi","C. regius","C. regius",-29.85972,130.1022,4812600,1654802,1221976,18
-"SAMAR_33571_Ct_taen","C. taeniolatus","C. taeniolatus",-30.16667,149.9333,5504847,3749894,2529896,33
-"SAMAR_33727_Ct_taen","C. taeniolatus","C. taeniolatus",-32.38333,150.6833,3286252,920652,584552,10
-"SAMAR_34180_Ct_bore","C. superciliaris 1","C. borealis",-16.45,134.6167,1620103,1717190,669232,15
-"SAMAR_34202_Ct_spal","C. spaldingi 2","C. spaldingi",-17.33333,138.25,4904529,2248420,1669930,22
-"SAMAR_34260_Ct_joan","C. joanae","C. joanae",-20.05,137.0167,5667747,2695014,2033557,20
-"SAMAR_34261_Ct_late","C. inornatus 1","C. lateralis",-19.91667,138.1667,2116288,1496954,573542,16
-"SAMAR_34743_Ct_taen","C. taeniolatus","C. taeniolatus",-29.33333,151.9,3549544,1076256,698598,11
-"SAMAR_34780_Ct_stra","C. strauchii 1","C. strauchii",-31.63333,137.6167,3716251,1069770,606872,10
-"SAMAR_35025_Ct_aria","C. ariadnae","C. ariadnae",-26.95,140.95,5325361,5493778,2731333,28
-"SAMAR_35050_Ct_scho","C. schomburgkii 1","C. schomburgkii",-28.28333,140.9,3693030,1077744,758659,12
-"SAMAR_36034_Ct_taen","C. euclae","C. taeniolatus",-28.75,138.4667,3167985,3401556,738025,12
-"SAMAR_36086_Ct_leae","C. leae","C. leae",-25.23333,131.0167,5682164,2783758,1964914,23
-"SAMAR_36575_Ct_eucl","C. euclae","C. euclae",-33.175,134.825,4551659,3728364,2105652,27
-"SAMAR_36710_Ct_essi","C. essingtoni 2","C. essingtonii",-11.16667,132.1333,5739063,1749304,1332497,14
-"SAMAR_36883_Ct_stra","C. strauchii 2","C. strauchii",-27.71667,142.8,4596422,2897128,1708283,22
-"SAMAR_37073_Ct_scho","C. schomburgkii 1","C. schomburgkii",-34.31667,139.5,4422613,3758444,2312688,32
-"SAMAR_37916_Ct_stra","C. strauchii 1","C. strauchii",-29.55833,137.325,4992660,4222588,2418987,33
-"SAMAR_38117_Ct_aria","C. ariadnae","C. ariadnae",-26.28333,136.1,5274151,3196734,2176533,27
-"SAMAR_39563_Ct_taen","C. euclae","C. taeniolatus",-35.62389,140.4789,4120141,3655426,1778004,27
-"SAMAR_41282_Ct_olym","C. olympicus","C. olympicus",-33.70278,140.9889,3782317,1314070,787680,13
-"SAMAR_42343_Ct_stra","C. strauchii 1","C. strauchii",-30.56667,139.35,1472791,2721246,434092,8
-"SAMAR_42658_Ct_taen","C. euclae","C. taeniolatus",-25.23333,139.55,2833396,3362266,1193435,17
-"SAMAR_42675_Ct_pulc","C. pulchellus 1","C. pulchellus",-21.73333,139.55,3347570,3172276,1021544,15
-"SAMAR_42687_Ct_late","C. inornatus 1","C. lateralis",-20.71667,139.55,2204820,2519498,952270,24
-"SAMAR_42701_Ct_pulc","C. pulchellus 1","C. pulchellus",-20.36667,140.2833,5173772,3878622,2564195,27
-"SAMAR_42708_Ct_pulc","C. pulchellus 1","C. pulchellus",-20.76667,139.4833,6145060,2485766,1789498,19
-"SAMAR_42743_Ct_stra","C. strauchii 3","C. strauchii",-21.91667,144.4167,5740783,1902808,1238883,13
-"SAMAR_42768_Ct_late","C. inornatus 1","C. lateralis",-22.96667,142.9,1888792,2051176,768007,21
-"SAMAR_42776_Ct_hebe","C. hebetior","C. hebetior",-22.96667,142.9,4774670,2498696,1691543,21
-"SAMAR_42788_Ct_hebe","C. hebetior","C. hebetior",-23.75,141.1333,5179202,3446524,2266107,30
-"SAMAR_42800_Ct_stra","C. strauchii 1","C. strauchii",-23.66667,140.9667,3427553,2236520,1204972,19
-"SAMAR_42823_Ct_asta","C. astarte","C. astarte",-23.55,140.6833,5338904,1901688,1317287,16
-"SAMAR_42837_Ct_late","C. inornatus 1","C. lateralis",-23.51667,141.4,749142,549102,181306,9
-"SAMAR_42840_Ct_asta","C. astarte","C. astarte",-23.63333,141.6667,6070186,3537168,2421818,23
-"SAMAR_42843_Ct_asta","C. astarte","C. astarte",-23.63333,142.2,4826399,1911528,1352390,15
-"SAMAR_42874_Ct_stra","C. strauchii 2","C. strauchii",-24.11667,143.4167,3508364,1353536,876011,13
-"SAMAR_42880_Ct_hebe","C. hebetior","C. hebetior",-24.11667,143.4167,4410034,1566142,1123625,16
-"SAMAR_42903_Ct_asta","C. astarte","C. astarte",-25.56667,141.5167,6784445,3818152,2708189,27
-"SAMAR_42949_Ct_orie","C. orientalis 2","C. orientalis",-25.75,140.7167,5476091,2988288,2189884,23
-"SAMAR_42950_Ct_orie","C. orientalis 2","C. orientalis",-25.68333,140.7333,5278530,2780188,2036070,20
-"SAMAR_42955_Ct_stra","C. strauchii 1","C. strauchii",-25.68333,140.7333,3858386,1837844,1051224,16
-"SAMAR_43599_Ct_olym","C. olympicus","C. olympicus",-29.55,135.2833,3783139,1787810,1074039,17
-"SAMAR_43880_Ct_leae","C. leae","C. leae",-26.76167,139.53,5176460,3472364,2286807,27
-"SAMAR_43945_Ct_joan","C. joanae","C. joanae",-27.07139,138.6719,5872686,2974228,2328425,24
-"SAMAR_44654_Ct_olym","C. olympicus","C. olympicus",-27.75,134.6222,3715619,1479462,889043,15
-"SAMAR_44726_Ct_sept","C. septenarius","C. septenarius",-27.56778,134.4911,4024583,3719702,1938239,32
-"SAMAR_45381_Ct_calu","C. calurus 1","C. calurus",-26.95333,131.4353,5456340,3061032,2258597,29
-"SAMAR_45516_Ct_stra","C. strauchii 2","C. strauchii",-31.06667,142.55,4089093,3591654,2112965,29
-"SAMAR_45620_Ct_olym","C. olympicus","C. olympicus",-29.06667,138.4833,2217195,1064622,638115,13
-"SAMAR_45960_Ct_aria","C. ariadnae","C. ariadnae",-26.615,129.3139,3907958,2046582,1211146,18
-"SAMAR_45963_Ct_broo","C. brooksi","C. brooksi",-26.48778,129.1736,4506441,2059410,1422503,21
-"SAMAR_45966_Ct_leae","C. leae","C. leae",-26.48778,129.1736,5328316,3574924,2599254,33
-"SAMAR_46332_Ct_leae","C. leae","C. leae",-29.78417,136.9228,5323001,3585560,2587720,33
-"SAMAR_46343_Ct_olym","C. olympicus","C. olympicus",-29.51361,136.1558,1105869,430852,259860,9
-"SAMAR_46452_Ct_scho","C. schomburgkii 1","C. schomburgkii",-29.13694,136.5664,4844944,2983442,2264655,33
+"QM_82940_Ct_ingr","C. ingrami","C. ingrami",-26.163,147.4575,NA,8598,3961,5
+"QM_84335_Ct_quin","C. quinkan","C. quinkan",-15.683,144.55,3386251,5050478,3889900,25
+"QM_87405_Ct_rosa","C. rosarium","C. rosarium",-20.724,145.179,3538029,2319746,1889308,18
+"QMJ_62372_Ct_regi","C. regius","C. regius",-25.65,140.2333,1068794,687052,454175,8
+"QMJ_62373_Ct_asta","C. astarte","C. astarte",-25.36667,141.4667,4832747,4549976,3279648,34
+"QMJ_62380_Ct_dux","C. dux","C. dux",-23.83333,138.0833,3740818,1823460,1243304,19
+"QMJ_74401_Ct_zebr","C. zebrilla","C. zebrilla",-20.16389,144.5183,3698186,1744372,1237585,17
+"SAMAR_24688_Ct_leae","C. leae","C. leae",-28.66667,140.2167,4128868,2833652,1885821,25
+"SAMAR_25378_Ct_scho","C. schomburgkii 2","C. schomburgkii",-30.8,132.1167,3959431,3261138,2153564,32
+"SAMAR_25605_Ct_regi",NA,"C. regius",-30.8,132.1167,NA,3216320,2690717,30
+"SAMAR_25645_Ct_orie","C. orientalis 1","C. orientalis",-31.53333,132.2667,2472287,2224086,1414352,19
+"SAMAR_25688_Ct_eucl","C. euclae","C. euclae",-31.49222,131.2667,3050810,2001080,1127484,18
+"SAMAR_26265_Ct_scho","C. schomburgkii 2","C. schomburgkii",-31.61389,129.1056,3737490,3033550,1935478,26
+"SAMAR_28517_Ct_olym","C. olympicus","C. olympicus",-32.33333,136.2833,3748697,2652258,1598123,25
+"SAMAR_29853_Ct_leae","C. leae","C. leae",-25.5,131.8167,2599116,1271328,852598,12
+"SAMAR_29939_Ct_broo","C. brooksi","C. brooksi",-25.5,131.8167,4333939,3101966,1970561,26
+"SAMAR_29946_Ct_dux","C. dux","C. dux",-25.5,131.8167,3563686,2042038,1339499,18
+"SAMAR_31877_Ct_regi","C. regius","C. regius",-30.92389,134.0303,4678623,2903122,2229441,28
+"SAMAR_31889_Ct_leae","C. leae","C. leae",-30.89278,134.1,4450648,2869264,2092158,26
+"SAMAR_32029_Ct_broo","C. brooksi","C. brooksi",-30.58556,132.2392,3510692,2093672,1315918,20
+"SAMAR_32054_Ct_leae","C. leae","C. leae",-30.55194,132.145,4392212,2398822,1748586,23
+"SAMAR_32255_Ct_scho","C. schomburgkii 2","C. schomburgkii",-29.44528,130.1744,2876453,1672768,1088513,19
+"SAMAR_32289_Ct_regi","C. regius","C. regius",-29.85972,130.1022,3865094,1654802,1221976,18
+"SAMAR_33571_Ct_taen","C. taeniolatus","C. taeniolatus",-30.16667,149.9333,4844928,3749894,2529896,33
+"SAMAR_33727_Ct_taen","C. taeniolatus","C. taeniolatus",-32.38333,150.6833,1605471,920652,584552,10
+"SAMAR_34180_Ct_bore","C. superciliaris 1","C. borealis",-16.45,134.6167,971132,1717190,669232,15
+"SAMAR_34202_Ct_spal","C. spaldingi 2","C. spaldingi",-17.33333,138.25,4021076,2248420,1669930,22
+"SAMAR_34260_Ct_joan","C. joanae","C. joanae",-20.05,137.0167,4341463,2695014,2033557,20
+"SAMAR_34261_Ct_late","C. inornatus 1","C. lateralis",-19.91667,138.1667,1610670,1496954,573542,16
+"SAMAR_34743_Ct_taen","C. taeniolatus","C. taeniolatus",-29.33333,151.9,1870958,1076256,698598,11
+"SAMAR_34780_Ct_stra","C. strauchii 1","C. strauchii",-31.63333,137.6167,2071881,1069770,606872,10
+"SAMAR_35025_Ct_aria","C. ariadnae","C. ariadnae",-26.95,140.95,4575778,5493778,2731333,28
+"SAMAR_35050_Ct_scho","C. schomburgkii 1","C. schomburgkii",-28.28333,140.9,2153761,1077744,758659,12
+"SAMAR_36034_Ct_taen","C. euclae","C. taeniolatus",-28.75,138.4667,1802584,3401556,738025,12
+"SAMAR_36086_Ct_leae","C. leae","C. leae",-25.23333,131.0167,4838537,2783758,1964914,23
+"SAMAR_36575_Ct_eucl","C. euclae","C. euclae",-33.175,134.825,3864409,3728364,2105652,27
+"SAMAR_36710_Ct_essi","C. essingtoni 2","C. essingtonii",-11.16667,132.1333,3883566,1749304,1332497,14
+"SAMAR_36883_Ct_stra","C. strauchii 2","C. strauchii",-27.71667,142.8,3822061,2897128,1708283,22
+"SAMAR_37073_Ct_scho","C. schomburgkii 1","C. schomburgkii",-34.31667,139.5,3903845,3758444,2312688,32
+"SAMAR_37916_Ct_stra","C. strauchii 1","C. strauchii",-29.55833,137.325,4464601,4222588,2418987,33
+"SAMAR_38117_Ct_aria","C. ariadnae","C. ariadnae",-26.28333,136.1,4492644,3196734,2176533,27
+"SAMAR_39563_Ct_taen","C. euclae","C. taeniolatus",-35.62389,140.4789,3543608,3655426,1778004,27
+"SAMAR_41282_Ct_olym","C. olympicus","C. olympicus",-33.70278,140.9889,2576674,1314070,787680,13
+"SAMAR_42343_Ct_stra","C. strauchii 1","C. strauchii",-30.56667,139.35,363978,2721246,434092,8
+"SAMAR_42658_Ct_taen","C. euclae","C. taeniolatus",-25.23333,139.55,1951074,3362266,1193435,17
+"SAMAR_42675_Ct_pulc","C. pulchellus 1","C. pulchellus",-21.73333,139.55,2090865,3172276,1021544,15
+"SAMAR_42687_Ct_late","C. inornatus 1","C. lateralis",-20.71667,139.55,1839093,2519498,952270,24
+"SAMAR_42701_Ct_pulc","C. pulchellus 1","C. pulchellus",-20.36667,140.2833,4343089,3878622,2564195,27
+"SAMAR_42708_Ct_pulc","C. pulchellus 1","C. pulchellus",-20.76667,139.4833,4914265,2485766,1789498,19
+"SAMAR_42743_Ct_stra","C. strauchii 3","C. strauchii",-21.91667,144.4167,3836836,1902808,1238883,13
+"SAMAR_42768_Ct_late","C. inornatus 1","C. lateralis",-22.96667,142.9,1474751,2051176,768007,21
+"SAMAR_42776_Ct_hebe","C. hebetior","C. hebetior",-22.96667,142.9,3763746,2498696,1691543,21
+"SAMAR_42788_Ct_hebe","C. hebetior","C. hebetior",-23.75,141.1333,4512251,3446524,2266107,30
+"SAMAR_42800_Ct_stra","C. strauchii 1","C. strauchii",-23.66667,140.9667,2623190,2236520,1204972,19
+"SAMAR_42823_Ct_asta","C. astarte","C. astarte",-23.55,140.6833,3876338,1901688,1317287,16
+"SAMAR_42837_Ct_late","C. inornatus 1","C. lateralis",-23.51667,141.4,295614,549102,181306,9
+"SAMAR_42840_Ct_asta","C. astarte","C. astarte",-23.63333,141.6667,4790999,3537168,2421818,23
+"SAMAR_42843_Ct_asta","C. astarte","C. astarte",-23.63333,142.2,3234841,1911528,1352390,15
+"SAMAR_42874_Ct_stra","C. strauchii 2","C. strauchii",-24.11667,143.4167,2208983,1353536,876011,13
+"SAMAR_42880_Ct_hebe","C. hebetior","C. hebetior",-24.11667,143.4167,3214779,1566142,1123625,16
+"SAMAR_42903_Ct_asta","C. astarte","C. astarte",-25.56667,141.5167,5702055,3818152,2708189,27
+"SAMAR_42949_Ct_orie","C. orientalis 2","C. orientalis",-25.75,140.7167,4331959,2988288,2189884,23
+"SAMAR_42950_Ct_orie","C. orientalis 2","C. orientalis",-25.68333,140.7333,3883854,2780188,2036070,20
+"SAMAR_42955_Ct_stra","C. strauchii 1","C. strauchii",-25.68333,140.7333,2811741,1837844,1051224,16
+"SAMAR_43599_Ct_olym","C. olympicus","C. olympicus",-29.55,135.2833,2910271,1787810,1074039,17
+"SAMAR_43880_Ct_leae","C. leae","C. leae",-26.76167,139.53,4441481,3472364,2286807,27
+"SAMAR_43945_Ct_joan","C. joanae","C. joanae",-27.07139,138.6719,4850195,2974228,2328425,24
+"SAMAR_44654_Ct_olym","C. olympicus","C. olympicus",-27.75,134.6222,2744294,1479462,889043,15
+"SAMAR_44726_Ct_sept","C. septenarius","C. septenarius",-27.56778,134.4911,3492802,3719702,1938239,32
+"SAMAR_45381_Ct_calu","C. calurus 1","C. calurus",-26.95333,131.4353,4711010,3061032,2258597,29
+"SAMAR_45516_Ct_stra","C. strauchii 2","C. strauchii",-31.06667,142.55,3564157,3591654,2112965,29
+"SAMAR_45620_Ct_olym","C. olympicus","C. olympicus",-29.06667,138.4833,1260013,1064622,638115,13
+"SAMAR_45960_Ct_aria","C. ariadnae","C. ariadnae",-26.615,129.3139,3079290,2046582,1211146,18
+"SAMAR_45963_Ct_broo","C. brooksi","C. brooksi",-26.48778,129.1736,3830852,2059410,1422503,21
+"SAMAR_45966_Ct_leae","C. leae","C. leae",-26.48778,129.1736,4742241,3574924,2599254,33
+"SAMAR_46332_Ct_leae","C. leae","C. leae",-29.78417,136.9228,4702451,3585560,2587720,33
+"SAMAR_46343_Ct_olym","C. olympicus","C. olympicus",-29.51361,136.1558,415172,430852,259860,9
+"SAMAR_46452_Ct_scho","C. schomburgkii 1","C. schomburgkii",-29.13694,136.5664,4254783,2983442,2264655,33
 "SAMAR_46903_Ct_sept",NA,"C. septenarius",-26.69722,135.6425,NA,NA,NA,NA
-"SAMAR_47257_Ct_taen","C. euclae","C. taeniolatus",-28.4325,136.4533,4340516,2654178,1559732,23
-"SAMAR_48354_Ct_scho","C. schomburgkii 1","C. schomburgkii",-30.46306,140.9447,5081986,2322372,1677767,22
-"SAMAR_48573_Ct_dux","C. dux","C. dux",-27.33583,130.2261,5095696,2273672,1559456,22
-"SAMAR_48699_Ct_calu","C. calurus 1","C. calurus",-27.01417,129.87,5994921,4216334,3074636,34
-"SAMAR_48785_Ct_calu","C. calurus 1","C. calurus",-27.06083,129.8239,5686485,3321680,2402317,26
-"SAMAR_49444_Ct_orie","C. orientalis 1","C. orientalis",-36.49111,140.37,4843597,4950688,3036512,40
-"SAMAR_50902_Ct_stra","C. strauchii 1","C. strauchii",-26.78667,138.3025,4124836,2828902,1596838,23
-"SAMAR_51093_Ct_spal","C. spaldingi 2","C. spaldingi",-17.56667,133.5333,4417671,1403136,1058629,15
-"SAMAR_51242_Ct_regi","C. regius","C. regius",-27.02028,133.47,5033277,3586408,2529186,36
-"SAMAR_53967_Ct_regi","C. regius","C. regius",-24.55528,133.2383,4200536,1300408,897292,14
-"SAMAR_54020_Ct_joan","C. joanae","C. joanae",-18.59222,136.0894,4686212,3008492,2310708,25
-"SAMAR_54164_Ct_regi","C. regius","C. regius",-27.77833,138.2758,4608516,1234998,916275,14
-"SAMAR_54433_Ct_late","C. inornatus 1","C. lateralis",-19.39472,140.2367,2165221,2749052,1019712,26
-"SAMAR_54463_Ct_late","C. inornatus 1","C. lateralis",-19.22639,140.3481,1724877,1724516,600049,18
-"SAMAR_54485_Ct_spal","C. spaldingi 2","C. spaldingi",-20.98583,145.0317,4486667,2304712,1545362,23
-"SAMAR_55259_Ct_late","C. inornatus 1","C. lateralis",-21.91306,140.0217,2250872,2742352,1045326,27
-"SAMAR_55603_Ct_taen","C. taeniolatus","C. taeniolatus",-24.32583,150.9403,4255190,3362406,2129044,29
-"SAMAR_55675_Ct_spal","C. spaldingi 2","C. spaldingi",-21.09167,145.0044,4121761,1389748,942836,15
-"SAMAR_55677_Ct_hebe","C. hebetior","C. hebetior",-21.09167,145.0044,3895352,3971166,2362445,37
-"SAMAR_55709_Ct_zebr","C. zebrilla","C. zebrilla",-20.38056,144.4222,4819526,3457360,2334829,29
-"SAMAR_55731_Ct_robu","C. spaldingi 5","C. robustus",-20.65528,141.7975,887516,4128976,1387735,30
-"SAMAR_55799_Ct_late","C. inornatus 1","C. lateralis",-18.12833,144.6328,1880671,3910410,1333184,39
-"SAMAR_55848_Ct_stra","C. zebrilla","C. strauchii",-19.8175,146.0314,3128019,1409108,851418,14
-"SAMAR_55863_Ct_taen","C. taeniolatus","C. taeniolatus",-16.93333,145.7667,3808204,2801380,1644774,27
-"SAMAR_55882_Ct_taen","C. taeniolatus","C. taeniolatus",-24.1975,146.5508,4359874,3154842,1986447,28
-"SAMAR_58943_Ct_broo","C. brooksi","C. brooksi",-29.08639,130.2689,3530008,1037408,666085,11
-"SAMAR_61390_Ct_eucl","C. euclae","C. euclae",-32.14722,133.1417,4301835,2272380,1396614,21
-"SAMAR_62561_Ct_scho","C. schomburgkii 1","C. schomburgkii",-29.87778,133.6169,4630444,3301982,2193319,31
-"SAMAR_66522_Ct_leae","C. leae","C. leae",-30.4436,137.8297,4911090,2334098,1590859,22
-"SAMAR_67475_Ct_orie","C. orientalis 1","C. orientalis",-33.55306,136.4458,2766450,772082,458270,9
-"SAMR_19910_Ct_robu","C. spaldingi 5","C. robustus",-32.2,135.116667,3350331,2683352,1725727,28
-"SAMR_29480_Ct_impa","C. impar","C. impar",-33.733,121.3333,3207449,1356310,1043795,11
-"SAMR_29707_Ct_brac","C. inornatus 1","C. brachyonyx",-33.2,140.916667,1492836,4517938,1559238,47
-"SAMR_31859_Ct_atla","C. atlas","C. atlas",-30.615,133.2322,1703821,772864,443296,11
-"SAMR_32256_Ct_atla","C. atlas","C. atlas",-29.445,130.1744,2161457,1273186,755076,14
-"SAMR_32276_Ct_hele","C. inornatus 1","C. helenae",-29.525,130.15,1281200,984080,350055,13
-"SAMR_33560_Ct_robu","C. spaldingi 5","C. robustus",-30.25,149.85,3306921,2433716,1578303,24
-"SAMR_33707_Ct_robu","C. spaldingi 5","C. robustus",-33.2,149.666667,3272459,1472710,970220,17
-"SAMR_34123_Ct_hill","C. inornatus 1","C. hilli",-12.65,132.8833,1324145,3381220,1074042,37
-"SAMR_35905_Ct_taen","C. euclae","C. taeniolatus",-26.283,136.083333,3738774,2748856,1654027,25
-"SAMR_35964_Ct_hele","C. inornatus 1","C. helenae",-26.517,135.466667,1418384,2951784,953179,30
-"SAMR_36098_Ct_dux","C. dux","C. dux",-25.233,131.0167,5259004,3030582,2038973,27
-"SAMR_36192_Ct_pian","C. piankai 1","C. piankai",-25.233,131.016667,73952,73326,47972,5
-"SAMR_36252_Ct_brac","C. inornatus 1","C. brachyonyx",-34.9,140.45,1557427,3221562,1175170,39
-"SAMR_36349_Ct_brac","C. inornatus 1","C. brachyonyx",-27.717,139.316667,1523011,6958726,2278182,62
-"SAMR_36603_Ct_robu","C. spaldingi 5","C. robustus",-35.083,148.916667,2660786,921164,612988,13
-"SAMR_36875_Ct_regi","C. inornatus 1","C. regius",-27.55,144.316667,149519,126850,47243,6
-"SAMR_37942_Ct_atla","C. atlas","C. atlas",-33.294,137.2083,4008865,2490638,1407679,21
-"SAMR_37962_Ct_atla","C. atlas","C. atlas",-33.167,137.1333,1246707,353118,212930,8
-"SAMR_37975_Ct_robu","C. spaldingi 5","C. robustus",-33.833,139.016667,2868770,1486644,959902,16
-"SAMR_38802_Ct_pant","C. pantherinus","C. pantherinus",-21.533,133.883333,1488561,619152,325666,9
-"SAMR_41330_Ct_brac","C. inornatus 1","C. brachyonyx",-33.128,140.605556,933699,520118,196738,9
-"SAMR_42034_Ct_dux","C. dux","C. dux",-26.26,130.3853,5540784,5007956,3383634,43
-"SAMR_42153_Ct_pant","C. pantherinus","C. pantherinus",-25.686,140.616389,3869240,5105508,2755646,50
-"SAMR_42487_Ct_stra","C. strauchii 1","C. strauchii",-27.257,135.505,4535633,3089978,1773821,27
-"SAMR_42708_Ct_pulc","C. pulchellus 1","C. pulchellus",-20.767,139.4833,4897615,3314392,2446120,26
-"SAMR_42758_Ct_late","C. inornatus 1","C. lateralis",-22.667,142.933333,1772236,3595472,1296316,27
-"SAMR_42772_Ct_pulc","C. pulchellus 1","C. pulchellus",-22.967,142.9,4120365,3147510,2100184,30
-"SAMR_42801_Ct_asta","C. astarte","C. astarte",-23.667,140.966667,3500180,861048,607073,10
-"SAMR_42881_Ct_stra","C. strauchii 2","C. strauchii",-24.117,143.4167,4223429,7800490,4881852,45
-"SAMR_42918_Ct_saxa","C. inornatus 1","C. saxatilis",-25.367,141.933333,396278,244696,79363,7
-"SAMR_44378_Ct_pant","C. pantherinus","C. pantherinus",-26.297,130.151667,4029181,3350512,1726809,28
-"SAMR_44387_Ct_dux","C. dux","C. dux",-26.247,130.1122,5126832,4343114,2912413,36
-"SAMR_44403_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-26.503,130.428611,3941354,1986206,1252929,20
-"SAMR_44903_Ct_stra","C. strauchii 1","C. strauchii",-29,138.505556,4498913,4831094,2749014,40
-"SAMR_44934_Ct_taen","C. euclae","C. taeniolatus",-29.758,138.667778,4651474,8076208,4752541,67
-"SAMR_44955_Ct_stra","C. strauchii 1","C. strauchii",-29.545,139.4117,4197535,5352892,3185542,38
-"SAMR_45029_Ct_stra","C. strauchii 1","C. strauchii",-26.385,140.345,4341110,4098000,2406469,35
-"SAMR_45040_Ct_joan","C. joanae","C. joanae",-26.306,140.331944,2965005,1575912,1225520,13
-"SAMR_45215_Ct_brac","C. inornatus 1","C. brachyonyx",-34.958,140.833333,980682,685388,258132,11
-"SAMR_45385_Ct_pian","C. piankai 1","C. piankai",-27.004,131.355,3788272,5318774,3610652,33
-"SAMR_45528_Ct_pant","C. pantherinus","C. pantherinus",-31.624,133.451389,3151323,2789592,1463982,26
-"SAMR_45608_Ct_dux","C. dux","C. dux",-27.043,131.2933,5023294,2969180,2020951,26
-"SAMR_46072_Ct_eucl","C. euclae","C. euclae",-33.093,136.693889,2164534,980602,606345,12
-"SAMR_46165_Ct_dux","C. dux","C. dux",-26.517,129.2019,4945475,4000242,2668749,34
-"SAMR_46664_Ct_eucl","C. euclae","C. euclae",-33.206,134.597222,52304,37324,20282,6
-"SAMR_46857_Ct_stra","C. strauchii 1","C. strauchii",-26.524,134.4419,4365640,3373142,2021312,30
-"SAMR_46967_Ct_sept","C. septenarius","C. septenarius",-26.16,134.431944,3977956,3153616,1676026,28
-"SAMR_47028_Ct_robu","C. spaldingi 5","C. robustus",-36.738,140.239722,2892923,3728298,1836905,28
-"SAMR_47236_Ct_regi","C. regius","C. regius",-28.951,136.781944,3396192,1199450,842077,13
-"SAMR_48330_Ct_regi","C. regius","C. regius",-32.053,140.927222,4436056,2123262,1580389,20
-"SAMR_48588_Ct_dux","C. dux","C. dux",-27.374,130.3622,31028,30046,18652,6
-"SAMR_48698_Ct_gran","C. hanloni","C. grandis",-27.014,129.87,2475041,4849966,2188575,55
-"SAMR_48771_Ct_gree","C. greeri","C. greeri",-27.027,129.815,4525090,2718856,1853977,19
-"SAMR_48772_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-27.027,129.815,3458215,2228526,1384331,21
-"SAMR_48807_Ct_pian","C. piankai 1","C. piankai",-27.329,130.293333,3829324,4080646,2831364,28
-"SAMR_48821_Ct_gran","C. grandis","C. grandis",-27.337,130.2375,5095457,2838684,1976632,26
-"SAMR_48964_Ct_olym","C. olympicus","C. olympicus",-30.79,137.400556,3444715,2761366,1622927,22
-"SAMR_49090_Ct_leon","C. leonhardii 1","C. leonhardii",-27.208,140.894444,5247304,4331978,2838248,26
-"SAMR_49196_Ct_leon","C. leonhardii 1","C. leonhardii",-30.185,139.598889,227210,105618,63622,7
-"SAMR_50208_Ct_saxa","C. inornatus 1","C. saxatilis",-26.141,132.359167,1623006,3820086,1335687,40
-"SAMR_50209_Ct_saxa","C. inornatus 1","C. saxatilis",-26.141,132.359167,1377424,1742698,624803,19
-"SAMR_51082_Ct_leon","C. leonhardii 1","C. leonhardii",-19.65,134.183333,4156243,3779004,2314691,30
+"SAMAR_47257_Ct_taen","C. euclae","C. taeniolatus",-28.4325,136.4533,3631816,2654178,1559732,23
+"SAMAR_48354_Ct_scho","C. schomburgkii 1","C. schomburgkii",-30.46306,140.9447,4195093,2322372,1677767,22
+"SAMAR_48573_Ct_dux","C. dux","C. dux",-27.33583,130.2261,4281645,2273672,1559456,22
+"SAMAR_48699_Ct_calu","C. calurus 1","C. calurus",-27.01417,129.87,5158492,4216334,3074636,34
+"SAMAR_48785_Ct_calu","C. calurus 1","C. calurus",-27.06083,129.8239,4689865,3321680,2402317,26
+"SAMAR_49444_Ct_orie","C. orientalis 1","C. orientalis",-36.49111,140.37,4328051,4950688,3036512,40
+"SAMAR_50902_Ct_stra","C. strauchii 1","C. strauchii",-26.78667,138.3025,3436018,2828902,1596838,23
+"SAMAR_51093_Ct_spal","C. spaldingi 2","C. spaldingi",-17.56667,133.5333,3176616,1403136,1058629,15
+"SAMAR_51242_Ct_regi","C. regius","C. regius",-27.02028,133.47,4563514,3586408,2529186,36
+"SAMAR_53967_Ct_regi","C. regius","C. regius",-24.55528,133.2383,3047224,1300408,897292,14
+"SAMAR_54020_Ct_joan","C. joanae","C. joanae",-18.59222,136.0894,3640956,3008492,2310708,25
+"SAMAR_54164_Ct_regi","C. regius","C. regius",-27.77833,138.2758,3246377,1234998,916275,14
+"SAMAR_54433_Ct_late","C. inornatus 1","C. lateralis",-19.39472,140.2367,1842254,2749052,1019712,26
+"SAMAR_54463_Ct_late","C. inornatus 1","C. lateralis",-19.22639,140.3481,1354211,1724516,600049,18
+"SAMAR_54485_Ct_spal","C. spaldingi 2","C. spaldingi",-20.98583,145.0317,3743665,2304712,1545362,23
+"SAMAR_55259_Ct_late","C. inornatus 1","C. lateralis",-21.91306,140.0217,1970161,2742352,1045326,27
+"SAMAR_55603_Ct_taen","C. taeniolatus","C. taeniolatus",-24.32583,150.9403,3732803,3362406,2129044,29
+"SAMAR_55675_Ct_spal","C. spaldingi 2","C. spaldingi",-21.09167,145.0044,3017121,1389748,942836,15
+"SAMAR_55677_Ct_hebe","C. hebetior","C. hebetior",-21.09167,145.0044,3348616,3971166,2362445,37
+"SAMAR_55709_Ct_zebr","C. zebrilla","C. zebrilla",-20.38056,144.4222,4117022,3457360,2334829,29
+"SAMAR_55731_Ct_robu","C. spaldingi 5","C. robustus",-20.65528,141.7975,414329,4128976,1387735,30
+"SAMAR_55799_Ct_late","C. inornatus 1","C. lateralis",-18.12833,144.6328,1650144,3910410,1333184,39
+"SAMAR_55848_Ct_stra","C. zebrilla","C. strauchii",-19.8175,146.0314,2167710,1409108,851418,14
+"SAMAR_55863_Ct_taen","C. taeniolatus","C. taeniolatus",-16.93333,145.7667,3219202,2801380,1644774,27
+"SAMAR_55882_Ct_taen","C. taeniolatus","C. taeniolatus",-24.1975,146.5508,3727755,3154842,1986447,28
+"SAMAR_58943_Ct_broo","C. brooksi","C. brooksi",-29.08639,130.2689,1994291,1037408,666085,11
+"SAMAR_61390_Ct_eucl","C. euclae","C. euclae",-32.14722,133.1417,3569353,2272380,1396614,21
+"SAMAR_62561_Ct_scho","C. schomburgkii 1","C. schomburgkii",-29.87778,133.6169,4061493,3301982,2193319,31
+"SAMAR_66522_Ct_leae","C. leae","C. leae",-30.4436,137.8297,4037007,2334098,1590859,22
+"SAMAR_67475_Ct_orie","C. orientalis 1","C. orientalis",-33.55306,136.4458,1164292,772082,458270,9
+"SAMR_19910_Ct_robu","C. spaldingi 5","C. robustus",-32.2,135.116667,3004013,2683352,1725727,28
+"SAMR_29480_Ct_impa","C. impar","C. impar",-33.733,121.3333,1444612,1356310,1043795,11
+"SAMR_29707_Ct_brac","C. inornatus 1","C. brachyonyx",-33.2,140.916667,1346669,4517938,1559238,47
+"SAMR_31859_Ct_atla","C. atlas","C. atlas",-30.615,133.2322,787013,772864,443296,11
+"SAMR_32256_Ct_atla","C. atlas","C. atlas",-29.445,130.1744,1223024,1273186,755076,14
+"SAMR_32276_Ct_hele","C. inornatus 1","C. helenae",-29.525,130.15,791818,984080,350055,13
+"SAMR_33560_Ct_robu","C. spaldingi 5","C. robustus",-30.25,149.85,2777051,2433716,1578303,24
+"SAMR_33707_Ct_robu","C. spaldingi 5","C. robustus",-33.2,149.666667,2552718,1472710,970220,17
+"SAMR_34123_Ct_hill","C. inornatus 1","C. hilli",-12.65,132.8833,1165399,3381220,1074042,37
+"SAMR_35905_Ct_taen","C. euclae","C. taeniolatus",-26.283,136.083333,3070247,2748856,1654027,25
+"SAMR_35964_Ct_hele","C. inornatus 1","C. helenae",-26.517,135.466667,1188124,2951784,953179,30
+"SAMR_36098_Ct_dux","C. dux","C. dux",-25.233,131.0167,4602643,3030582,2038973,27
+"SAMR_36192_Ct_pian","C. piankai 1","C. piankai",-25.233,131.016667,NA,73326,47972,5
+"SAMR_36252_Ct_brac","C. inornatus 1","C. brachyonyx",-34.9,140.45,1399572,3221562,1175170,39
+"SAMR_36349_Ct_brac","C. inornatus 1","C. brachyonyx",-27.717,139.316667,1401372,6958726,2278182,62
+"SAMR_36603_Ct_robu","C. spaldingi 5","C. robustus",-35.083,148.916667,1670717,921164,612988,13
+"SAMR_36875_Ct_regi","C. inornatus 1","C. regius",-27.55,144.316667,19899,126850,47243,6
+"SAMR_37942_Ct_atla","C. atlas","C. atlas",-33.294,137.2083,3342013,2490638,1407679,21
+"SAMR_37962_Ct_atla","C. atlas","C. atlas",-33.167,137.1333,405888,353118,212930,8
+"SAMR_37975_Ct_robu","C. spaldingi 5","C. robustus",-33.833,139.016667,2035324,1486644,959902,16
+"SAMR_38802_Ct_pant","C. pantherinus","C. pantherinus",-21.533,133.883333,621564,619152,325666,9
+"SAMR_41330_Ct_brac","C. inornatus 1","C. brachyonyx",-33.128,140.605556,390479,520118,196738,9
+"SAMR_42034_Ct_dux","C. dux","C. dux",-26.26,130.3853,5082266,5007956,3383634,43
+"SAMR_42153_Ct_pant","C. pantherinus","C. pantherinus",-25.686,140.616389,3553276,5105508,2755646,50
+"SAMR_42487_Ct_stra","C. strauchii 1","C. strauchii",-27.257,135.505,3922335,3089978,1773821,27
+"SAMR_42708_Ct_pulc","C. pulchellus 1","C. pulchellus",-20.767,139.4833,3933258,3314392,2446120,26
+"SAMR_42758_Ct_late","C. inornatus 1","C. lateralis",-22.667,142.933333,1367682,3595472,1296316,27
+"SAMR_42772_Ct_pulc","C. pulchellus 1","C. pulchellus",-22.967,142.9,3442237,3147510,2100184,30
+"SAMR_42801_Ct_asta","C. astarte","C. astarte",-23.667,140.966667,1754399,861048,607073,10
+"SAMR_42881_Ct_stra","C. strauchii 2","C. strauchii",-24.117,143.4167,3644829,7800490,4881852,45
+"SAMR_42918_Ct_saxa","C. inornatus 1","C. saxatilis",-25.367,141.933333,84450,244696,79363,7
+"SAMR_44378_Ct_pant","C. pantherinus","C. pantherinus",-26.297,130.151667,3644250,3350512,1726809,28
+"SAMR_44387_Ct_dux","C. dux","C. dux",-26.247,130.1122,4501326,4343114,2912413,36
+"SAMR_44403_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-26.503,130.428611,3194634,1986206,1252929,20
+"SAMR_44903_Ct_stra","C. strauchii 1","C. strauchii",-29,138.505556,3896387,4831094,2749014,40
+"SAMR_44934_Ct_taen","C. euclae","C. taeniolatus",-29.758,138.667778,4328727,8076208,4752541,67
+"SAMR_44955_Ct_stra","C. strauchii 1","C. strauchii",-29.545,139.4117,3581163,5352892,3185542,38
+"SAMR_45029_Ct_stra","C. strauchii 1","C. strauchii",-26.385,140.345,3812751,4098000,2406469,35
+"SAMR_45040_Ct_joan","C. joanae","C. joanae",-26.306,140.331944,1471881,1575912,1225520,13
+"SAMR_45215_Ct_brac","C. inornatus 1","C. brachyonyx",-34.958,140.833333,503564,685388,258132,11
+"SAMR_45385_Ct_pian","C. piankai 1","C. piankai",-27.004,131.355,3383974,5318774,3610652,33
+"SAMR_45528_Ct_pant","C. pantherinus","C. pantherinus",-31.624,133.451389,2670940,2789592,1463982,26
+"SAMR_45608_Ct_dux","C. dux","C. dux",-27.043,131.2933,4283470,2969180,2020951,26
+"SAMR_46072_Ct_eucl","C. euclae","C. euclae",-33.093,136.693889,1122820,980602,606345,12
+"SAMR_46165_Ct_dux","C. dux","C. dux",-26.517,129.2019,4333725,4000242,2668749,34
+"SAMR_46664_Ct_eucl","C. euclae","C. euclae",-33.206,134.597222,NA,37324,20282,6
+"SAMR_46857_Ct_stra","C. strauchii 1","C. strauchii",-26.524,134.4419,3790622,3373142,2021312,30
+"SAMR_46967_Ct_sept","C. septenarius","C. septenarius",-26.16,134.431944,3291764,3153616,1676026,28
+"SAMR_47028_Ct_robu","C. spaldingi 5","C. robustus",-36.738,140.239722,2407444,3728298,1836905,28
+"SAMR_47236_Ct_regi","C. regius","C. regius",-28.951,136.781944,2092567,1199450,842077,13
+"SAMR_48330_Ct_regi","C. regius","C. regius",-32.053,140.927222,3396221,2123262,1580389,20
+"SAMR_48588_Ct_dux","C. dux","C. dux",-27.374,130.3622,NA,30046,18652,6
+"SAMR_48698_Ct_gran","C. hanloni","C. grandis",-27.014,129.87,2345598,4849966,2188575,55
+"SAMR_48771_Ct_gree","C. greeri","C. greeri",-27.027,129.815,3213130,2718856,1853977,19
+"SAMR_48772_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-27.027,129.815,2605088,2228526,1384331,21
+"SAMR_48807_Ct_pian","C. piankai 1","C. piankai",-27.329,130.293333,3356289,4080646,2831364,28
+"SAMR_48821_Ct_gran","C. grandis","C. grandis",-27.337,130.2375,4251290,2838684,1976632,26
+"SAMR_48964_Ct_olym","C. olympicus","C. olympicus",-30.79,137.400556,2662884,2761366,1622927,22
+"SAMR_49090_Ct_leon","C. leonhardii 1","C. leonhardii",-27.208,140.894444,4163957,4331978,2838248,26
+"SAMR_49196_Ct_leon","C. leonhardii 1","C. leonhardii",-30.185,139.598889,58924,105618,63622,7
+"SAMR_50208_Ct_saxa","C. inornatus 1","C. saxatilis",-26.141,132.359167,1431911,3820086,1335687,40
+"SAMR_50209_Ct_saxa","C. inornatus 1","C. saxatilis",-26.141,132.359167,1024162,1742698,624803,19
+"SAMR_51082_Ct_leon","C. leonhardii 1","C. leonhardii",-19.65,134.183333,3440902,3779004,2314691,30
 "SAMR_51089_Ct_saxa",NA,"C. saxatilis",-19.65,134.183333,NA,NA,NA,NA
-"SAMR_51539_Ct_sept","C. septenarius","C. septenarius",-26.253,131.480278,289185,155970,72040,6
-"SAMR_51580_Ct_leon","C. leonhardii 1","C. leonhardii",-26.277,131.460556,5707516,5043348,3404721,34
-"SAMR_52956_Ct_robu","C. spaldingi 5","C. robustus",-30.119,139.448333,2273580,885330,580742,12
-"SAMR_53150_Ct_olym","C. olympicus","C. olympicus",-31.773,138.803889,39908,41104,23110,6
-"SAMR_53975_Ct_saxa","C. superciliaris 1","C. saxatilis",-21.5,133.9,3870597,8812548,6088304,56
-"SAMR_54008_Ct_saxa","C. inornatus 1","C. saxatilis",-21.506,133.893889,1443313,1491660,534876,18
-"SAMR_54024_Ct_joan","C. joanae","C. joanae",-18.592,136.089444,4708305,6656834,5129726,26
-"SAMR_54025_Ct_pulc","C. pulchellus 2","C. pulchellus",-18.592,136.0894,3823256,2705630,2036656,22
-"SAMR_54030_Ct_pulc","C. pulchellus 2","C. pulchellus",-18.592,136.089444,5427006,6286026,4627260,24
-"SAMR_54340_Ct_late","C. inornatus 1","C. lateralis",-20.775,139.7856,1930075,2065548,745710,21
-"SAMR_54432_Ct_pant","C. pantherinus","C. pantherinus",-19.395,140.236667,2761687,4385900,1914354,42
-"SAMR_54434_Ct_late","C. inornatus 1","C. lateralis",-19.395,140.236667,1960291,2753656,1054543,29
-"SAMR_54494_Ct_zebr","C. zebrilla","C. zebrilla",-20.253,144.4656,4553837,5722256,2938624,31
-"SAMR_54511_Ct_zebr","C. zebrilla","C. zebrilla",-20.164,144.5183,4489356,2642824,1822060,22
-"SAMR_55208_Ct_atla","C. atlas","C. atlas",-33.741,140.0483,3103729,1754774,934732,18
-"SAMR_55275_Ct_joan","C. joanae","C. joanae",-21.9,139.996944,4472555,6426038,5042464,28
-"SAMR_55637_Ct_arca","C. arcanus","C. arcanus",-24.357,150.960556,5787215,3420926,2511428,19
-"SAMR_55638_Ct_arca","C. arcanus","C. arcanus",-24.357,150.960556,4654692,3214542,2362754,26
-"SAMR_55674_Ct_pant","C. pantherinus","C. pantherinus",-21.346,145.05,2194826,2851766,1235413,25
-"SAMR_55678_Ct_hebe","C. hebetior","C. hebetior",-21.092,145.004444,3245980,2351764,1388556,22
-"SAMR_55725_Ct_spal","C. spaldingi 2","C. spaldingi",-20.624,144.399722,2386725,5710124,2843173,45
-"SAMR_55734_Ct_stra","C. strauchii 3","C. strauchii",-20.824,141.7464,5047700,2147380,1432328,15
-"SAMR_55746_Ct_robu","C. spaldingi 5","C. robustus",-20.975,141.891667,3034066,1948882,1210528,23
-"SAMR_55874_Ct_euta","C. inornatus 1","C. eutaenius",-20.089,146.2525,1120356,603090,223363,9
-"SAMR_55881_Ct_robu","C. spaldingi 5","C. robustus",-24.198,146.550833,1098731,327638,183125,7
-"SAMR_55891_Ct_robu","C. spaldingi 5","C. robustus",-24.86,146.255833,323626,138350,80396,6
-"SAMR_56476_Ct_dux","C. dux","C. dux",-27.077,129.7728,4236716,2021822,1347784,19
-"SAMR_56616_Ct_atla",NA,"C. atlas",-32.985,135.7517,5921620,3665200,2816843,27
-"SAMR_57397_Ct_atla","C. atlas","C. atlas",-33.393889,137.342778,4459460,5049464,2809276,41
-"SAMR_57650_Ct_atla","C. atlas","C. atlas",-33.186389,136.843889,3885,27492,11533,7
+"SAMR_51539_Ct_sept","C. septenarius","C. septenarius",-26.253,131.480278,44619,155970,72040,6
+"SAMR_51580_Ct_leon","C. leonhardii 1","C. leonhardii",-26.277,131.460556,4756958,5043348,3404721,34
+"SAMR_52956_Ct_robu","C. spaldingi 5","C. robustus",-30.119,139.448333,1259834,885330,580742,12
+"SAMR_53150_Ct_olym","C. olympicus","C. olympicus",-31.773,138.803889,NA,41104,23110,6
+"SAMR_53975_Ct_saxa","C. superciliaris 1","C. saxatilis",-21.5,133.9,3612065,8812548,6088304,56
+"SAMR_54008_Ct_saxa","C. inornatus 1","C. saxatilis",-21.506,133.893889,1083662,1491660,534876,18
+"SAMR_54024_Ct_joan","C. joanae","C. joanae",-18.592,136.089444,3537164,6656834,5129726,26
+"SAMR_54025_Ct_pulc","C. pulchellus 2","C. pulchellus",-18.592,136.0894,2671497,2705630,2036656,22
+"SAMR_54030_Ct_pulc","C. pulchellus 2","C. pulchellus",-18.592,136.089444,3531800,6286026,4627260,24
+"SAMR_54340_Ct_late","C. inornatus 1","C. lateralis",-20.775,139.7856,1582112,2065548,745710,21
+"SAMR_54432_Ct_pant","C. pantherinus","C. pantherinus",-19.395,140.236667,2455100,4385900,1914354,42
+"SAMR_54434_Ct_late","C. inornatus 1","C. lateralis",-19.395,140.236667,1684061,2753656,1054543,29
+"SAMR_54494_Ct_zebr","C. zebrilla","C. zebrilla",-20.253,144.4656,3737542,5722256,2938624,31
+"SAMR_54511_Ct_zebr","C. zebrilla","C. zebrilla",-20.164,144.5183,3529888,2642824,1822060,22
+"SAMR_55208_Ct_atla","C. atlas","C. atlas",-33.741,140.0483,2399066,1754774,934732,18
+"SAMR_55275_Ct_joan","C. joanae","C. joanae",-21.9,139.996944,3320226,6426038,5042464,28
+"SAMR_55637_Ct_arca","C. arcanus","C. arcanus",-24.357,150.960556,3860620,3420926,2511428,19
+"SAMR_55638_Ct_arca","C. arcanus","C. arcanus",-24.357,150.960556,3623082,3214542,2362754,26
+"SAMR_55674_Ct_pant","C. pantherinus","C. pantherinus",-21.346,145.05,1750199,2851766,1235413,25
+"SAMR_55678_Ct_hebe","C. hebetior","C. hebetior",-21.092,145.004444,2517212,2351764,1388556,22
+"SAMR_55725_Ct_spal","C. spaldingi 2","C. spaldingi",-20.624,144.399722,2047842,5710124,2843173,45
+"SAMR_55734_Ct_stra","C. strauchii 3","C. strauchii",-20.824,141.7464,3635243,2147380,1432328,15
+"SAMR_55746_Ct_robu","C. spaldingi 5","C. robustus",-20.975,141.891667,2570189,1948882,1210528,23
+"SAMR_55874_Ct_euta","C. inornatus 1","C. eutaenius",-20.089,146.2525,470426,603090,223363,9
+"SAMR_55881_Ct_robu","C. spaldingi 5","C. robustus",-24.198,146.550833,268610,327638,183125,7
+"SAMR_55891_Ct_robu","C. spaldingi 5","C. robustus",-24.86,146.255833,26911,138350,80396,6
+"SAMR_56476_Ct_dux","C. dux","C. dux",-27.077,129.7728,3253275,2021822,1347784,19
+"SAMR_56616_Ct_atla",NA,"C. atlas",-32.985,135.7517,NA,3665200,2816843,27
+"SAMR_57397_Ct_atla","C. atlas","C. atlas",-33.393889,137.342778,4204926,5049464,2809276,41
+"SAMR_57650_Ct_atla","C. atlas","C. atlas",-33.186389,136.843889,NA,27492,11533,7
 "SAMR_58425_Ct_orie",NA,"C. orientalis",-33.721,135.126944,NA,NA,NA,NA
-"SAMR_58939_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-29.061,130.293889,3854329,8060632,5158696,57
-"SAMR_60360_Ct_atla","C. atlas","C. atlas",-29.499,129.3319,4472151,5242276,3021094,43
-"SAMR_62029_Ct_calu","C. calurus 1","C. calurus",-24.6286,128.7556,3246838,1343652,972723,14
-"SAMR_62031_Ct_dux","C. dux","C. dux",-24.6286,128.7556,4648125,2662120,1577484,21
-"SAMR_62088_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-24.5594,128.7097,2636285,1008896,660937,12
-"SAMR_62121_Ct_scho","C. schomburgkii 1","C. schomburgkii",-25.9325,128.4411,2865233,1243572,817150,13
-"SAMR_62131_Ct_leon","C. leonhardii 2","C. leonhardii",-25.9308,128.4494,3983256,2071982,1304698,19
-"SAMR_62172_Ct_scho","C. schomburgkii 1","C. schomburgkii",-25.9386,128.3897,1707595,683150,435607,10
-"SAMR_65339_Ct_late","C. inornatus 1","C. lateralis",-22.385,139.8564,449227,249228,97906,8
-"SAMR_65346_Ct_hebe","C. hebetior","C. hebetior",-22.39056,139.9589,3885451,2089406,1347127,19
-"SAMR_65347_Ct_hebe","C. hebetior","C. hebetior",-22.39056,139.9589,4263327,2347400,1428285,20
-"SAMR_65379_Ct_hebe","C. hebetior","C. hebetior",-24.07556,143.1897,3500597,2304750,1649028,20
-"SAMR_65380_Ct_hebe","C. hebetior","C. hebetior",-24.07556,143.1897,3561337,4168676,1958456,44
-"SAMR_65381_Ct_scho","C. schomburgkii 1","C. schomburgkii",-24.07556,143.1897,4058933,2745190,1967449,23
-"SAMR_65407_Ct_late","C. inornatus 1","C. lateralis",-24.10167,143.0175,2305073,4644506,1792456,48
-"SAMR_65416_Ct_late","C. inornatus 1","C. lateralis",-24.13611,143.2017,2176114,3968726,1465728,40
-"SAMR_65418_Ct_agre","C. agrestis","C. agrestis",-24.14,143.3392,6175954,3357782,2615736,26
-"UMMZ_242606_Ct_aust","C. australis","C. australis",-26.6578,113.64763,4642790,5019822,3269410,36
-"UMMZ_242607_Ct_aust","C. australis","C. australis",-26.65758,113.64697,5431798,4905836,3044536,37
-"UMMZ_242608_Ct_gran","C. grandis","C. grandis",-18.13731,123.52986,5428191,2830914,1861920,22
-"UMMZ_242609_Ct_gran","C. grandis","C. grandis",-18.11428,123.55069,5672063,5049160,3335549,36
-"UMMZ_242613_Ct_gran","C. grandis","C. grandis",-19.2393,127.82636,3396842,1624216,1121547,16
-"UMMZ_242614_Ct_hele","C. inornatus 1","C. helenae",-18.11428,123.55069,2356506,4244086,1563229,35
-"UMMZ_242616_Ct_hele","C. inornatus 1","C. helenae",-18.11428,123.55069,2589748,4734124,1726456,38
-"UMMZ_242623_Ct_hele","C. inornatus 1","C. helenae",-19.678985,127.58666,2151054,2756942,902692,23
-"UMMZ_242624_Ct_inor","C. superciliaris 2","C. inornatus",-18.09191,123.56942,2818457,4332298,2140925,30
-"UMMZ_242625_Ct_inor","C. superciliaris 2","C. inornatus",-18.11428,123.55069,1686844,1050480,542792,12
-"UMMZ_242629_Ct_inor","C. superciliaris 2","C. inornatus",-19.2425,127.78279,2668090,2769996,1371570,21
-"UMMZ_242630_Ct_inor","C. superciliaris 2","C. inornatus",-19.24257,127.78061,2605953,3704878,1861616,27
-"UMMZ_242633_Ct_pant","C. pantherinus","C. pantherinus",-18.11428,123.55069,4007920,6404166,3337628,56
-"UMMZ_242634_Ct_pant","C. pantherinus","C. pantherinus",-18.11428,123.55069,3178604,1883386,971179,18
-"UMMZ_242638_Ct_pant","C. pantherinus","C. pantherinus",-19.2393,127.82636,3458364,1888308,1033475,20
-"UMMZ_242639_Ct_pant","C. pantherinus","C. pantherinus",-19.2393,127.82636,3471572,2094066,1119568,21
-"UMMZ_242642_Ct_pant","C. pantherinus","C. pantherinus",-26.4743,114.25961,1574804,890886,445509,12
-"UMMZ_242643_Ct_pant","C. pantherinus","C. pantherinus",-26.4725,114.25648,2987469,4186226,2085837,40
-"UMMZ_242645_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-19.2393,127.82636,4391834,4483288,2771930,44
-"UMMZ_242646_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-19.22818,127.84773,3946915,1774880,1092687,19
-"UMMZ_242648_Ct_scho","C. schomburgkii 2","C. schomburgkii",-26.4725,114.25648,4605100,6527968,4063211,58
-"UMMZ_242649_Ct_serv","C. serventyi","C. serventyi",-18.13731,123.52986,5317752,2585024,1958271,19
-"UMMZ_242650_Ct_serv","C. serventyi","C. serventyi",-18.13731,123.52986,5735154,4501564,3407551,25
-"UMMZ_242653_Ct_tana","C. tanamiensis","C. tanamiensis",-19.24111,127.84658,4584639,1751708,1284427,17
-"UMMZ_242654_Ct_zast","C. duricola 2","C. zastictus",-26.4725,114.25648,872616,2858480,922957,20
-"UMMZ_242655_Ct_zast","C. duricola 2","C. zastictus",-26.4743,114.25961,1103934,5414294,1711363,21
-"WAMR_077870_Ct_scho","C. schomburgkii 2","C. schomburgkii",-32.103,126.291667,2729656,811610,523994,10
-"WAMR_084577_Ct_hele","C. inornatus 1","C. helenae",-27.25,124.416667,1160358,1191214,381690,15
-"WAMR_099165_Ct_duri","C. duricola 1","C. duricola",-21.609,118.974444,3266671,3319144,2059133,23
-"WAMR_100527_Ct_scho","C. schomburgkii 2","C. schomburgkii",-29.833,120.916667,4237783,2085972,1276176,18
-"WAMR_102159_Ct_duri","C. duricola 2","C. duricola",-22.599,118.6389,3530257,4680340,3010156,40
-"WAMR_102261_Ct_scho","C. schomburgkii 2","C. schomburgkii",-23.044,115.812222,4067736,4535612,2740284,35
+"SAMR_58939_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-29.061,130.293889,3534642,8060632,5158696,57
+"SAMR_60360_Ct_atla","C. atlas","C. atlas",-29.499,129.3319,4120603,5242276,3021094,43
+"SAMR_62029_Ct_calu","C. calurus 1","C. calurus",-24.6286,128.7556,2006272,1343652,972723,14
+"SAMR_62031_Ct_dux","C. dux","C. dux",-24.6286,128.7556,3785121,2662120,1577484,21
+"SAMR_62088_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-24.5594,128.7097,1485206,1008896,660937,12
+"SAMR_62121_Ct_scho","C. schomburgkii 1","C. schomburgkii",-25.9325,128.4411,1665726,1243572,817150,13
+"SAMR_62131_Ct_leon","C. leonhardii 2","C. leonhardii",-25.9308,128.4494,3127070,2071982,1304698,19
+"SAMR_62172_Ct_scho","C. schomburgkii 1","C. schomburgkii",-25.9386,128.3897,703437,683150,435607,10
+"SAMR_65339_Ct_late","C. inornatus 1","C. lateralis",-22.385,139.8564,137812,249228,97906,8
+"SAMR_65346_Ct_hebe","C. hebetior","C. hebetior",-22.39056,139.9589,3010008,2089406,1347127,19
+"SAMR_65347_Ct_hebe","C. hebetior","C. hebetior",-22.39056,139.9589,3390897,2347400,1428285,20
+"SAMR_65379_Ct_hebe","C. hebetior","C. hebetior",-24.07556,143.1897,2473505,2304750,1649028,20
+"SAMR_65380_Ct_hebe","C. hebetior","C. hebetior",-24.07556,143.1897,3210337,4168676,1958456,44
+"SAMR_65381_Ct_scho","C. schomburgkii 1","C. schomburgkii",-24.07556,143.1897,3126696,2745190,1967449,23
+"SAMR_65407_Ct_late","C. inornatus 1","C. lateralis",-24.10167,143.0175,2065715,4644506,1792456,48
+"SAMR_65416_Ct_late","C. inornatus 1","C. lateralis",-24.13611,143.2017,1950947,3968726,1465728,40
+"SAMR_65418_Ct_agre","C. agrestis","C. agrestis",-24.14,143.3392,5065249,3357782,2615736,26
+"UMMZ_242606_Ct_aust","C. australis","C. australis",-26.6578,113.64763,3830921,5019822,3269410,36
+"UMMZ_242607_Ct_aust","C. australis","C. australis",-26.65758,113.64697,4687130,4905836,3044536,37
+"UMMZ_242608_Ct_gran","C. grandis","C. grandis",-18.13731,123.52986,4415527,2830914,1861920,22
+"UMMZ_242609_Ct_gran","C. grandis","C. grandis",-18.11428,123.55069,4853087,5049160,3335549,36
+"UMMZ_242613_Ct_gran","C. grandis","C. grandis",-19.2393,127.82636,2200384,1624216,1121547,16
+"UMMZ_242614_Ct_hele","C. inornatus 1","C. helenae",-18.11428,123.55069,1975840,4244086,1563229,35
+"UMMZ_242616_Ct_hele","C. inornatus 1","C. helenae",-18.11428,123.55069,2241940,4734124,1726456,38
+"UMMZ_242623_Ct_hele","C. inornatus 1","C. helenae",-19.678985,127.58666,1798477,2756942,902692,23
+"UMMZ_242624_Ct_inor","C. superciliaris 2","C. inornatus",-18.09191,123.56942,2044193,4332298,2140925,30
+"UMMZ_242625_Ct_inor","C. superciliaris 2","C. inornatus",-18.11428,123.55069,843560,1050480,542792,12
+"UMMZ_242629_Ct_inor","C. superciliaris 2","C. inornatus",-19.2425,127.78279,1895488,2769996,1371570,21
+"UMMZ_242630_Ct_inor","C. superciliaris 2","C. inornatus",-19.24257,127.78061,1868670,3704878,1861616,27
+"UMMZ_242633_Ct_pant","C. pantherinus","C. pantherinus",-18.11428,123.55069,3776682,6404166,3337628,56
+"UMMZ_242634_Ct_pant","C. pantherinus","C. pantherinus",-18.11428,123.55069,2464074,1883386,971179,18
+"UMMZ_242638_Ct_pant","C. pantherinus","C. pantherinus",-19.2393,127.82636,2776289,1888308,1033475,20
+"UMMZ_242639_Ct_pant","C. pantherinus","C. pantherinus",-19.2393,127.82636,2839845,2094066,1119568,21
+"UMMZ_242642_Ct_pant","C. pantherinus","C. pantherinus",-26.4743,114.25961,824429,890886,445509,12
+"UMMZ_242643_Ct_pant","C. pantherinus","C. pantherinus",-26.4725,114.25648,2606079,4186226,2085837,40
+"UMMZ_242645_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-19.2393,127.82636,4021769,4483288,2771930,44
+"UMMZ_242646_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-19.22818,127.84773,3188463,1774880,1092687,19
+"UMMZ_242648_Ct_scho","C. schomburgkii 2","C. schomburgkii",-26.4725,114.25648,4130782,6527968,4063211,58
+"UMMZ_242649_Ct_serv","C. serventyi","C. serventyi",-18.13731,123.52986,3996180,2585024,1958271,19
+"UMMZ_242650_Ct_serv","C. serventyi","C. serventyi",-18.13731,123.52986,4212513,4501564,3407551,25
+"UMMZ_242653_Ct_tana","C. tanamiensis","C. tanamiensis",-19.24111,127.84658,3435262,1751708,1284427,17
+"UMMZ_242654_Ct_zast","C. duricola 2","C. zastictus",-26.4725,114.25648,377534,2858480,922957,20
+"UMMZ_242655_Ct_zast","C. duricola 2","C. zastictus",-26.4743,114.25961,419586,5414294,1711363,21
+"WAMR_077870_Ct_scho","C. schomburgkii 2","C. schomburgkii",-32.103,126.291667,1322842,811610,523994,10
+"WAMR_084577_Ct_hele","C. inornatus 1","C. helenae",-27.25,124.416667,781228,1191214,381690,15
+"WAMR_099165_Ct_duri","C. duricola 1","C. duricola",-21.609,118.974444,2671478,3319144,2059133,23
+"WAMR_100527_Ct_scho","C. schomburgkii 2","C. schomburgkii",-29.833,120.916667,3309275,2085972,1276176,18
+"WAMR_102159_Ct_duri","C. duricola 2","C. duricola",-22.599,118.6389,3277128,4680340,3010156,40
+"WAMR_102261_Ct_scho","C. schomburgkii 2","C. schomburgkii",-23.044,115.812222,3597550,4535612,2740284,35
 "WAMR_102410_Ct_uber",NA,"C. uber",-23.079,115.790833,NA,NA,NA,NA
-"WAMR_102494_Ct_duri","C. duricola 2","C. duricola",-23.389,115.8867,3220663,3791742,2301664,31
-"WAMR_102661_Ct_nasu","C. nigrilineatus","C. nasutus",-24.105,120.325,923652,306424,166247,7
-"WAMR_102667_Ct_pian","C. piankai 1","C. piankai",-24.105,120.325,3191268,2063808,1391347,15
-"WAMR_102671_Ct_hele","C. inornatus 1","C. helenae",-24.054,120.406667,417091,364202,90927,8
-"WAMR_102733_Ct_scho","C. schomburgkii 2","C. schomburgkii",-24.575,120.307778,1774193,413272,253856,7
-"WAMR_104349_Ct_angu","C. angusticeps","C. angusticeps",-21.333,115.166667,2503162,3691734,1750260,17
-"WAMR_108742_Ct_hele","C. inornatus 1","C. helenae",-18.9,128.8,1313973,2827684,845635,26
-"WAMR_108766_Ct_saxa","C. superciliaris 2","C. saxatilis",-18.917,125.266667,2389318,2416870,1258697,18
-"WAMR_108911_Ct_hele","C. inornatus 1","C. helenae",-21.883,122.366667,1333963,3186962,954010,27
-"WAMR_110222_Ct_duri","C. duricola 2","C. duricola",-21.384,117.061,2885066,2462286,1478211,21
-"WAMR_110581_Ct_pian","C. piankai 2","C. piankai",-19.58,128.8647,2554648,4647866,2446273,46
-"WAMR_110668_Ct_duri","C. duricola 2","C. duricola",-22.403,113.843333,1020777,367428,196062,7
-"WAMR_110738_Ct_ruti","C. uber 2","C. rutilans",-22.604,117.193333,4296765,1225492,761029,10
-"WAMR_111584_Ct_duri","C. duricola 2","C. duricola",-22.716,118.263,2041071,2581150,1082692,20
-"WAMR_112518_Ct_pant","C. pantherinus","C. pantherinus",-29.287,117.626389,1758555,898490,411430,10
-"WAMR_112780_Ct_orie","C. orientalis 1","C. orientalis",-32.073,124.002778,3205909,1148610,669946,10
-"WAMR_113416_Ct_atla","C. atlas","C. atlas",-30.225,123.6833,4208472,3386664,1897279,29
-"WAMR_113664_Ct_youn","C. youngsoni","C. youngsoni",-25.933,113.166667,3251790,628736,444956,9
-"WAMR_115114_Ct_aust","C. australis","C. australis",-32.083,115.883333,5567034,3676100,2355090,27
-"WAMR_115119_Ct_aust","C. australis","C. australis",-31.933,115.770278,5280242,3253518,2077226,24
-"WAMR_117161_Ct_cate","C. catenifer","C. catenifer",-35,117.95,476847,190600,113847,6
-"WAMR_117303_Ct_leon","C. leonhardii 2","C. leonhardii",-28.35,116.683333,3094494,1904224,1297968,16
-"WAMR_117679_Ct_saxa","C. superciliaris 2","C. saxatilis",-20.567,115.566667,2637346,2483742,1452096,21
-"WAMR_119683_Ct_deca","C. decaneurus 2","C. decaneurus",-15.833,128.033333,3981977,870762,636485,9
-"WAMR_119711_Ct_pian","C. piankai 2","C. piankai",-15.833,128.0333,1546179,649290,317256,10
-"WAMR_119931_Ct_duri","C. duricola 2","C. duricola",-22.467,117.3,3101800,1921062,1260023,20
-"WAMR_119955_Ct_pian","C. piankai 1","C. piankai",-21.667,121.5833,3529593,3704202,2516342,24
-"WAMR_119962_Ct_pant","C. pantherinus","C. pantherinus",-21.667,121.583333,2299523,876238,475412,11
-"WAMR_125012_Ct_pant","C. pantherinus","C. pantherinus",-22.732,119.028611,1893169,726518,353329,9
-"WAMR_126010_Ct_rima","C. rimacola","C. rimacolus",-15.587,128.996111,2870419,639892,471701,9
-"WAMR_126015_Ct_rima","C. rimacola","C. rimacolus",-15.587,128.996111,3895901,1080412,780980,11
-"WAMR_126428_Ct_atla","C. atlas","C. atlas",-30.283,119.7603,3871669,3301716,1871439,30
-"WAMR_127029_Ct_leon","C. leonhardii 2","C. leonhardii",-25.243,119.631389,2729950,670900,466425,9
-"WAMR_127799_Ct_scho","C. schomburgkii 3","C. schomburgkii",-22.808,117.784722,3033581,677072,474756,9
-"WAMR_129085_Ct_cate","C. catenifer","C. catenifer",-34.417,115.683333,4307123,1641314,1284899,12
-"WAMR_129335_Ct_pant","C. pantherinus","C. pantherinus",-21.683,114.816667,3294389,4055928,2057842,39
+"WAMR_102494_Ct_duri","C. duricola 2","C. duricola",-23.389,115.8867,2851631,3791742,2301664,31
+"WAMR_102661_Ct_nasu","C. nigrilineatus","C. nasutus",-24.105,120.325,202788,306424,166247,7
+"WAMR_102667_Ct_pian","C. piankai 1","C. piankai",-24.105,120.325,2187641,2063808,1391347,15
+"WAMR_102671_Ct_hele","C. inornatus 1","C. helenae",-24.054,120.406667,124969,364202,90927,8
+"WAMR_102733_Ct_scho","C. schomburgkii 2","C. schomburgkii",-24.575,120.307778,381702,413272,253856,7
+"WAMR_104349_Ct_angu","C. angusticeps","C. angusticeps",-21.333,115.166667,1358937,3691734,1750260,17
+"WAMR_108742_Ct_hele","C. inornatus 1","C. helenae",-18.9,128.8,1036568,2827684,845635,26
+"WAMR_108766_Ct_saxa","C. superciliaris 2","C. saxatilis",-18.917,125.266667,1787188,2416870,1258697,18
+"WAMR_108911_Ct_hele","C. inornatus 1","C. helenae",-21.883,122.366667,1062621,3186962,954010,27
+"WAMR_110222_Ct_duri","C. duricola 2","C. duricola",-21.384,117.061,2248565,2462286,1478211,21
+"WAMR_110581_Ct_pian","C. piankai 2","C. piankai",-19.58,128.8647,2329502,4647866,2446273,46
+"WAMR_110668_Ct_duri","C. duricola 2","C. duricola",-22.403,113.843333,292425,367428,196062,7
+"WAMR_110738_Ct_ruti","C. uber 2","C. rutilans",-22.604,117.193333,2198013,1225492,761029,10
+"WAMR_111584_Ct_duri","C. duricola 2","C. duricola",-22.716,118.263,1429415,2581150,1082692,20
+"WAMR_112518_Ct_pant","C. pantherinus","C. pantherinus",-29.287,117.626389,868267,898490,411430,10
+"WAMR_112780_Ct_orie","C. orientalis 1","C. orientalis",-32.073,124.002778,1648443,1148610,669946,10
+"WAMR_113416_Ct_atla","C. atlas","C. atlas",-30.225,123.6833,3672527,3386664,1897279,29
+"WAMR_113664_Ct_youn","C. youngsoni","C. youngsoni",-25.933,113.166667,1468480,628736,444956,9
+"WAMR_115114_Ct_aust","C. australis","C. australis",-32.083,115.883333,4639393,3676100,2355090,27
+"WAMR_115119_Ct_aust","C. australis","C. australis",-31.933,115.770278,4269530,3253518,2077226,24
+"WAMR_117161_Ct_cate","C. catenifer","C. catenifer",-35,117.95,36217,190600,113847,6
+"WAMR_117303_Ct_leon","C. leonhardii 2","C. leonhardii",-28.35,116.683333,1997613,1904224,1297968,16
+"WAMR_117679_Ct_saxa","C. superciliaris 2","C. saxatilis",-20.567,115.566667,2082060,2483742,1452096,21
+"WAMR_119683_Ct_deca","C. decaneurus 2","C. decaneurus",-15.833,128.033333,1893267,870762,636485,9
+"WAMR_119711_Ct_pian","C. piankai 2","C. piankai",-15.833,128.0333,736932,649290,317256,10
+"WAMR_119931_Ct_duri","C. duricola 2","C. duricola",-22.467,117.3,2412013,1921062,1260023,20
+"WAMR_119955_Ct_pian","C. piankai 1","C. piankai",-21.667,121.5833,2947771,3704202,2516342,24
+"WAMR_119962_Ct_pant","C. pantherinus","C. pantherinus",-21.667,121.583333,1239363,876238,475412,11
+"WAMR_125012_Ct_pant","C. pantherinus","C. pantherinus",-22.732,119.028611,857168,726518,353329,9
+"WAMR_126010_Ct_rima","C. rimacola","C. rimacolus",-15.587,128.996111,1157830,639892,471701,9
+"WAMR_126015_Ct_rima","C. rimacola","C. rimacolus",-15.587,128.996111,2240794,1080412,780980,11
+"WAMR_126428_Ct_atla","C. atlas","C. atlas",-30.283,119.7603,3383651,3301716,1871439,30
+"WAMR_127029_Ct_leon","C. leonhardii 2","C. leonhardii",-25.243,119.631389,1164236,670900,466425,9
+"WAMR_127799_Ct_scho","C. schomburgkii 3","C. schomburgkii",-22.808,117.784722,1212405,677072,474756,9
+"WAMR_129085_Ct_cate","C. catenifer","C. catenifer",-34.417,115.683333,2418363,1641314,1284899,12
+"WAMR_129335_Ct_pant","C. pantherinus","C. pantherinus",-21.683,114.816667,2944471,4055928,2057842,39
 "WAMR_129581_Ct_ruti",NA,"C. rutilans",-22.9,119,NA,NA,NA,NA
-"WAMR_129885_Ct_pant","C. pantherinus","C. pantherinus",-24.909,126.531944,3590897,2449838,1337805,23
-"WAMR_129972_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-27.217,121.05,1902208,457262,278776,8
-"WAMR_129973_Ct_leon","C. leonhardii 2","C. leonhardii",-27.217,121.05,4275717,1336796,856986,13
-"WAMR_131053_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-22.817,127.75,1337334,384766,213335,7
-"WAMR_131057_Ct_pant","C. pantherinus","C. pantherinus",-22.817,127.75,2873097,1001662,526647,11
-"WAMR_131066_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-22.817,127.75,40524,76558,37538,6
-"WAMR_132520_Ct_pant","C. pantherinus","C. pantherinus",-20.677,116.752222,2341265,969374,435819,10
-"WAMR_134166_Ct_pant","C. pantherinus","C. pantherinus",-31.413,117.754444,1905201,1046140,384832,10
-"WAMR_135218_Ct_atla","C. atlas","C. atlas",-32.14,121.8444,3456028,2865722,1681372,27
-"WAMR_135237_Ct_atla","C. atlas","C. atlas",-32.007,121.8308,3295451,1248930,706542,14
-"WAMR_135504_Ct_youn","C. youngsoni","C. youngsoni",-26.383,113.316667,1117876,371320,186282,6
-"WAMR_135692_Ct_saxa","C. superciliaris 2","C. saxatilis",-17.983,122.333333,2815232,3424292,1818719,24
+"WAMR_129885_Ct_pant","C. pantherinus","C. pantherinus",-24.909,126.531944,2985068,2449838,1337805,23
+"WAMR_129972_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-27.217,121.05,548005,457262,278776,8
+"WAMR_129973_Ct_leon","C. leonhardii 2","C. leonhardii",-27.217,121.05,2850140,1336796,856986,13
+"WAMR_131053_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-22.817,127.75,316141,384766,213335,7
+"WAMR_131057_Ct_pant","C. pantherinus","C. pantherinus",-22.817,127.75,1634530,1001662,526647,11
+"WAMR_131066_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-22.817,127.75,NA,76558,37538,6
+"WAMR_132520_Ct_pant","C. pantherinus","C. pantherinus",-20.677,116.752222,1231902,969374,435819,10
+"WAMR_134166_Ct_pant","C. pantherinus","C. pantherinus",-31.413,117.754444,886216,1046140,384832,10
+"WAMR_135218_Ct_atla","C. atlas","C. atlas",-32.14,121.8444,2831962,2865722,1681372,27
+"WAMR_135237_Ct_atla","C. atlas","C. atlas",-32.007,121.8308,2323377,1248930,706542,14
+"WAMR_135504_Ct_youn","C. youngsoni","C. youngsoni",-26.383,113.316667,161195,371320,186282,6
+"WAMR_135692_Ct_saxa","C. superciliaris 2","C. saxatilis",-17.983,122.333333,2309382,3424292,1818719,24
 "WAMR_135958_Ct_pant",NA,"C. pantherinus",-24.054,120.406667,NA,NA,NA,NA
-"WAMR_136457_Ct_atla","C. atlas","C. atlas",-28.617,119.0667,3290031,2637442,1449187,21
-"WAMR_139086_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-19.808,121.463889,2332637,737098,437961,10
-"WAMR_139164_Ct_serv","C. leonhardii 2","C. serventyi",-20.65,116.766667,3548718,1086180,606187,10
-"WAMR_139249_Ct_saxa","C. pantherinus","C. saxatilis",-21.287,120.459444,2130579,860222,411318,10
+"WAMR_136457_Ct_atla","C. atlas","C. atlas",-28.617,119.0667,2509454,2637442,1449187,21
+"WAMR_139086_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-19.808,121.463889,1039018,737098,437961,10
+"WAMR_139164_Ct_serv","C. leonhardii 2","C. serventyi",-20.65,116.766667,1768920,1086180,606187,10
+"WAMR_139249_Ct_saxa","C. pantherinus","C. saxatilis",-21.287,120.459444,1086317,860222,411318,10
 "WAMR_139286_Ct_rubi",NA,"C. rubicundus",-21.225,120.355278,NA,NA,NA,NA
-"WAMR_139296_Ct_hele","C. inornatus 1","C. helenae",-21.245,120.322222,1186488,1829062,561646,19
-"WAMR_139391_Ct_duri","C. duricola 1","C. duricola",-21.204,120.4731,3084358,2164862,1281088,18
-"WAMR_139394_Ct_duri","C. duricola 1","C. duricola",-21.351,120.4469,3478360,4632800,2847966,31
-"WAMR_139414_Ct_nigr","C. nigrilineatus","C. nigrilineatus",-21.287,120.459444,3100435,1401314,828058,15
-"WAMR_139415_Ct_nigr","C. nigrilineatus","C. nigrilineatus",-21.29,120.466389,1448380,453158,248136,8
-"WAMR_139423_Ct_duri","C. duricola 2","C. duricola",-21.373,115.3733,2361572,1252672,745433,13
-"WAMR_139523_Ct_hele","C. inornatus 1","C. helenae",-22.826,114.444722,881192,791374,256174,12
-"WAMR_139532_Ct_iape","C. iapetus","C. iapetus",-22.753,114.513889,4371864,3920136,2934571,19
-"WAMR_140704_Ct_pant","C. pantherinus","C. pantherinus",-22.674,119.416111,3425571,1776040,916810,17
-"WAMR_140983_Ct_mary","C. ariadnae","C. maryani",-21.784,114.863889,3690319,1304688,777663,13
+"WAMR_139296_Ct_hele","C. inornatus 1","C. helenae",-21.245,120.322222,859241,1829062,561646,19
+"WAMR_139391_Ct_duri","C. duricola 1","C. duricola",-21.204,120.4731,2361638,2164862,1281088,18
+"WAMR_139394_Ct_duri","C. duricola 1","C. duricola",-21.351,120.4469,3088907,4632800,2847966,31
+"WAMR_139414_Ct_nigr","C. nigrilineatus","C. nigrilineatus",-21.287,120.459444,2159254,1401314,828058,15
+"WAMR_139415_Ct_nigr","C. nigrilineatus","C. nigrilineatus",-21.29,120.466389,447096,453158,248136,8
+"WAMR_139423_Ct_duri","C. duricola 2","C. duricola",-21.373,115.3733,1426242,1252672,745433,13
+"WAMR_139523_Ct_hele","C. inornatus 1","C. helenae",-22.826,114.444722,460277,791374,256174,12
+"WAMR_139532_Ct_iape","C. iapetus","C. iapetus",-22.753,114.513889,2694226,3920136,2934571,19
+"WAMR_140704_Ct_pant","C. pantherinus","C. pantherinus",-22.674,119.416111,2721549,1776040,916810,17
+"WAMR_140983_Ct_mary","C. ariadnae","C. maryani",-21.784,114.863889,2459015,1304688,777663,13
 "WAMR_141025_Ct_xeno",NA,"C. xenopleura",-30.4,119.632778,NA,NA,NA,NA
-"WAMR_141131_Ct_hele","C. inornatus 1","C. helenae",-27.965,120.389167,1206849,2137434,651643,21
+"WAMR_141131_Ct_hele","C. inornatus 1","C. helenae",-27.965,120.389167,891814,2137434,651643,21
 "WAMR_141244_Ct_labi",NA,"C. labillardieri",-33.644,115.0375,NA,NA,NA,NA
-"WAMR_141296_Ct_duri","C. duricola 2","C. duricola",-21.066,116.1492,3349198,4536120,2760201,38
-"WAMR_141301_Ct_hele","C. inornatus 1","C. helenae",-21.066,116.149167,1300226,2527684,771557,24
-"WAMR_141379_Ct_robu","C. spaldingi 3","C. robustus",-21.102,116.131667,2564953,3101406,1710401,31
-"WAMR_144222_Ct_impa","C. impar","C. impar",-33.675,120.398333,4943855,1608908,1107868,13
-"WAMR_144639_Ct_leon","C. leonhardii 2","C. leonhardii",-29.796,121.074722,5495430,4048926,2607986,32
-"WAMR_145331_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-25.279,120.619167,1166704,328600,184408,6
-"WAMR_145630_Ct_duri","C. duricola 1","C. duricola",-20.78,118.64,2964676,1720742,1076888,16
-"WAMR_145646_Ct_uber","C. uber 1","C. uber",-22.39,119.99,8036084,3121944,1730146,11
-"WAMR_145686_Ct_robu","C. spaldingi 3","C. robustus",-22.101,118.991389,1680202,871168,459895,12
-"WAMR_145926_Ct_hele","C. inornatus 1","C. helenae",-30.723,123.423889,1199385,2113138,661669,21
-"WAMR_146012_Ct_robu","C. spaldingi 3","C. robustus",-16.743,124.095,2321391,2181880,1211043,21
+"WAMR_141296_Ct_duri","C. duricola 2","C. duricola",-21.066,116.1492,3087196,4536120,2760201,38
+"WAMR_141301_Ct_hele","C. inornatus 1","C. helenae",-21.066,116.149167,1014337,2527684,771557,24
+"WAMR_141379_Ct_robu","C. spaldingi 3","C. robustus",-21.102,116.131667,2135859,3101406,1710401,31
+"WAMR_144222_Ct_impa","C. impar","C. impar",-33.675,120.398333,3249768,1608908,1107868,13
+"WAMR_144639_Ct_leon","C. leonhardii 2","C. leonhardii",-29.796,121.074722,4860917,4048926,2607986,32
+"WAMR_145331_Ct_quat","C. quattuordecimlineatus 1","C. quattuordecimlineatus",-25.279,120.619167,118281,328600,184408,6
+"WAMR_145630_Ct_duri","C. duricola 1","C. duricola",-20.78,118.64,2125541,1720742,1076888,16
+"WAMR_145646_Ct_uber","C. uber 1","C. uber",-22.39,119.99,4376613,3121944,1730146,11
+"WAMR_145686_Ct_robu","C. spaldingi 3","C. robustus",-22.101,118.991389,926621,871168,459895,12
+"WAMR_145926_Ct_hele","C. inornatus 1","C. helenae",-30.723,123.423889,881687,2113138,661669,21
+"WAMR_146012_Ct_robu","C. spaldingi 3","C. robustus",-16.743,124.095,1735539,2181880,1211043,21
 "WAMR_146045_Ct_serv",NA,"C. serventyi",-16.747,123.795556,NA,NA,NA,NA
-"WAMR_146582_Ct_rubi","C. rubicundus","C. rubicundus",-20.583,116.805833,5033466,2250942,1704931,20
-"WAMR_146913_Ct_seve","C. inornatus 1","C. severus",-29.585,117.270278,1099801,2021578,600939,21
-"WAMR_146927_Ct_mime","C. mimetes","C. mimetes",-29.756,117.4,4346222,1361832,887488,10
-"WAMR_151014_Ct_tant","C. tantillus 2","C. tantillus",-15.546,128.803333,5570110,2327166,1709073,14
-"WAMR_151241_Ct_scho","C. schomburgkii 2","C. schomburgkii",-32.86,121.4,2882136,843342,529374,10
-"WAMR_151655_Ct_scho","C. schomburgkii 2","C. schomburgkii",-31.195,116.307222,4294119,2429560,1474142,21
-"WAMR_151833_Ct_tant","C. tantillus 1","C. tantillus",-13.883,126.566667,4522531,2139390,1639868,12
-"WAMR_152991_Ct_seve","C. inornatus 1","C. severus",-27.399,117.470833,1880332,2102242,849969,21
-"WAMR_153984_Ct_pant","C. pantherinus","C. pantherinus",-31.325,116.313611,2669578,1643644,766329,18
-"WAMR_154016_Ct_fall","C. inornatus 1","C. fallens",-31.642,115.9175,1221171,1842650,622793,22
-"WAMR_154802_Ct_uber","C. uber 2","C. uber",-22.068,118.995278,2120107,559884,330001,8
-"WAMR_156159_Ct_seve","C. inornatus 1","C. severus",-24.75,117.366667,906748,737324,239698,11
-"WAMR_157067_Ct_duri","C. duricola 1","C. duricola",-22.837,119.3972,3197897,2899166,1875999,23
-"WAMR_157132_Ct_pian","C. duricola 1","C. piankai",-22.686,120.2467,2781651,1899912,1171331,16
-"WAMR_157205_Ct_iape","C. iapetus","C. iapetus",-22.329,114.440278,2311737,763776,571205,9
-"WAMR_157327_Ct_rufe","C. nigrilineatus","C. rufescens",-22.3,114.593056,3048542,1876960,1085903,18
-"WAMR_157443_Ct_scho","C. schomburgkii 2","C. schomburgkii",-19.593,128.861111,2291061,782884,399966,9
-"WAMR_157566_Ct_duri","C. duricola 2","C. duricola",-21.674,115.8892,1449782,509522,284096,9
-"WAMR_157583_Ct_hanl","C. hanloni","C. hanloni",-21.748,116.075278,2702935,1171502,637987,15
-"WAMR_157646_Ct_hele","C. inornatus 1","C. helenae",-23.312,119.795556,1037391,1540626,433390,16
-"WAMR_158107_Ct_duri","C. duricola 1","C. duricola",-22.467,119.023,2880790,1739874,1107685,16
-"WAMR_158204_Ct_saxa","C. superciliaris 2","C. saxatilis",-22.403,119.861111,3018420,4939012,2920413,35
-"WAMR_158345_Ct_scho","C. schomburgkii 3","C. schomburgkii",-22.796,114.260833,4411881,1515304,1078629,12
-"WAMR_158376_Ct_saxa","C. superciliaris 2","C. saxatilis",-22.644,114.415,2739681,2765344,1620541,22
-"WAMR_158380_Ct_hanl","C. hanloni","C. hanloni",-22.734,114.436667,1916310,527014,284607,8
-"WAMR_158405_Ct_rufe","C. nigrilineatus","C. rufescens",-22.887,114.557222,211345,145048,71342,6
-"WAMR_158428_Ct_mary","C. ariadnae","C. maryani",-22.701,114.490278,3709273,1303314,794848,12
-"WAMR_158463_Ct_pant","C. pantherinus","C. pantherinus",-22.653,114.188056,3367016,6725946,3162016,54
-"WAMR_160095_Ct_duri","C. duricola 1","C. duricola",-21.304,121.2,3129653,3550066,2131287,24
-"WAMR_161462_Ct_duri","C. duricola 1","C. duricola",-20.935,119.858,3673289,8431438,5212762,57
+"WAMR_146582_Ct_rubi","C. rubicundus","C. rubicundus",-20.583,116.805833,3838133,2250942,1704931,20
+"WAMR_146913_Ct_seve","C. inornatus 1","C. severus",-29.585,117.270278,828448,2021578,600939,21
+"WAMR_146927_Ct_mime","C. mimetes","C. mimetes",-29.756,117.4,2284368,1361832,887488,10
+"WAMR_151014_Ct_tant","C. tantillus 2","C. tantillus",-15.546,128.803333,3772479,2327166,1709073,14
+"WAMR_151241_Ct_scho","C. schomburgkii 2","C. schomburgkii",-32.86,121.4,1358531,843342,529374,10
+"WAMR_151655_Ct_scho","C. schomburgkii 2","C. schomburgkii",-31.195,116.307222,3493345,2429560,1474142,21
+"WAMR_151833_Ct_tant","C. tantillus 1","C. tantillus",-13.883,126.566667,2176185,2139390,1639868,12
+"WAMR_152991_Ct_seve","C. inornatus 1","C. severus",-27.399,117.470833,1475549,2102242,849969,21
+"WAMR_153984_Ct_pant","C. pantherinus","C. pantherinus",-31.325,116.313611,2055314,1643644,766329,18
+"WAMR_154016_Ct_fall","C. inornatus 1","C. fallens",-31.642,115.9175,973955,1842650,622793,22
+"WAMR_154802_Ct_uber","C. uber 2","C. uber",-22.068,118.995278,634732,559884,330001,8
+"WAMR_156159_Ct_seve","C. inornatus 1","C. severus",-24.75,117.366667,484095,737324,239698,11
+"WAMR_157067_Ct_duri","C. duricola 1","C. duricola",-22.837,119.3972,2635777,2899166,1875999,23
+"WAMR_157132_Ct_pian","C. duricola 1","C. piankai",-22.686,120.2467,1995154,1899912,1171331,16
+"WAMR_157205_Ct_iape","C. iapetus","C. iapetus",-22.329,114.440278,945192,763776,571205,9
+"WAMR_157327_Ct_rufe","C. nigrilineatus","C. rufescens",-22.3,114.593056,2245887,1876960,1085903,18
+"WAMR_157443_Ct_scho","C. schomburgkii 2","C. schomburgkii",-19.593,128.861111,980794,782884,399966,9
+"WAMR_157566_Ct_duri","C. duricola 2","C. duricola",-21.674,115.8892,576750,509522,284096,9
+"WAMR_157583_Ct_hanl","C. hanloni","C. hanloni",-21.748,116.075278,1966464,1171502,637987,15
+"WAMR_157646_Ct_hele","C. inornatus 1","C. helenae",-23.312,119.795556,684744,1540626,433390,16
+"WAMR_158107_Ct_duri","C. duricola 1","C. duricola",-22.467,119.023,1948488,1739874,1107685,16
+"WAMR_158204_Ct_saxa","C. superciliaris 2","C. saxatilis",-22.403,119.861111,2665204,4939012,2920413,35
+"WAMR_158345_Ct_scho","C. schomburgkii 3","C. schomburgkii",-22.796,114.260833,2703940,1515304,1078629,12
+"WAMR_158376_Ct_saxa","C. superciliaris 2","C. saxatilis",-22.644,114.415,2194743,2765344,1620541,22
+"WAMR_158380_Ct_hanl","C. hanloni","C. hanloni",-22.734,114.436667,698245,527014,284607,8
+"WAMR_158405_Ct_rufe","C. nigrilineatus","C. rufescens",-22.887,114.557222,15410,145048,71342,6
+"WAMR_158428_Ct_mary","C. ariadnae","C. maryani",-22.701,114.490278,2365431,1303314,794848,12
+"WAMR_158463_Ct_pant","C. pantherinus","C. pantherinus",-22.653,114.188056,3178062,6725946,3162016,54
+"WAMR_160095_Ct_duri","C. duricola 1","C. duricola",-21.304,121.2,2547006,3550066,2131287,24
+"WAMR_161462_Ct_duri","C. duricola 1","C. duricola",-20.935,119.858,3553613,8431438,5212762,57
 "WAMR_161702_Ct_duri",NA,"C. duricola",-20.261,119.42,NA,NA,NA,NA
-"WAMR_162334_Ct_duri","C. duricola 1","C. duricola",-22.095,119.753,3208085,3089420,1921815,23
-"WAMR_163003_Ct_duri","C. superciliaris 1","C. duricola",-22.104,115.568,3141984,8275710,3919805,32
-"WAMR_165940_Ct_tant","C. tantillus 1","C. tantillus",-14.084,126.442778,4529126,5218436,4021577,23
-"WAMR_166387_Ct_broo","C. brooksi","C. brooksi",-25.9306,128.4525,15131,49004,29233,6
-"WAMR_166391_Ct_hele","C. inornatus 1","C. helenae",-24.6542,128.7553,1702861,4673330,1659392,45
-"WAMR_166392_Ct_hele","C. inornatus 1","C. helenae",-24.8914,128.7692,1000011,772906,257769,11
-"WAMR_166437_Ct_scho","C. schomburgkii 4","C. schomburgkii",-24.7072,128.7603,5153410,2288994,1729665,23
-"WAMR_166441_Ct_dux","C. dux","C. dux",-24.6964,128.7628,4370210,2060126,1419324,20
-"WAMR_166448_Ct_leon","C. leonhardii 2","C. leonhardii",-24.9001,128.7697,3072703,907820,556783,10
-"WAMR_170291_Ct_duri","C. duricola 2","C. duricola",-23.34,117.801,2842008,1691614,1081323,16
-"WAMR_170467_Ct_duri","C. duricola 1","C. duricola",-23.499,120.291,3348235,3777856,2362773,28
-"WAMR_170880_Ct_duri","C. duricola 1","C. duricola",-21.237,119.408,3159494,3117666,1922364,22
+"WAMR_162334_Ct_duri","C. duricola 1","C. duricola",-22.095,119.753,2593122,3089420,1921815,23
+"WAMR_163003_Ct_duri","C. superciliaris 1","C. duricola",-22.104,115.568,2611451,8275710,3919805,32
+"WAMR_165940_Ct_tant","C. tantillus 1","C. tantillus",-14.084,126.442778,2710315,5218436,4021577,23
+"WAMR_166387_Ct_broo","C. brooksi","C. brooksi",-25.9306,128.4525,NA,49004,29233,6
+"WAMR_166391_Ct_hele","C. inornatus 1","C. helenae",-24.6542,128.7553,1528284,4673330,1659392,45
+"WAMR_166392_Ct_hele","C. inornatus 1","C. helenae",-24.8914,128.7692,498935,772906,257769,11
+"WAMR_166437_Ct_scho","C. schomburgkii 4","C. schomburgkii",-24.7072,128.7603,4130842,2288994,1729665,23
+"WAMR_166441_Ct_dux","C. dux","C. dux",-24.6964,128.7628,3481997,2060126,1419324,20
+"WAMR_166448_Ct_leon","C. leonhardii 2","C. leonhardii",-24.9001,128.7697,1553349,907820,556783,10
+"WAMR_170291_Ct_duri","C. duricola 2","C. duricola",-23.34,117.801,2026010,1691614,1081323,16
+"WAMR_170467_Ct_duri","C. duricola 1","C. duricola",-23.499,120.291,2939049,3777856,2362773,28
+"WAMR_170880_Ct_duri","C. duricola 1","C. duricola",-21.237,119.408,2543992,3117666,1922364,22
