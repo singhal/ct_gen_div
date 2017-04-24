@@ -8,10 +8,13 @@ import gzip
 
 parser = argparse.ArgumentParser(description="Calculate het and Fst.")
 parser.add_argument('--ind', help="Cluster for which to run.")
+parser.add_argument('--cov', help="coverage limit.")
 args = parser.parse_args()
 ind = args.ind
+cov = args.cov
+cov = int(args.cov)
 
-c_file = '/Volumes/heloderma4/sonal/eco_IBD_oz/data/clustering/Ctenotus_Lerista.clustering.revised.csv'
+c_file = '/Volumes/heloderma4/sonal/eco_IBD_oz/data/clustering/Ctenotus_Lerista.clustering.revised2.csv'
 vcf_dir = '/Volumes/heloderma4/sonal/eco_IBD_oz/snp_calling/ind_variants/'
 out_dir = '/Volumes/heloderma4/sonal/eco_IBD_oz/data/diversity/'
 
@@ -20,13 +23,13 @@ def get_clusters(c_file):
         d = pd.read_csv(c_file)
         d = d[d.GMYC_RAxML2.notnull()]
 
-        inds = dict(zip(d.sample, d.GMYC_RAxML2))
+        inds = dict(zip(d['sample'], d.GMYC_RAxML2))
 
         return inds
 
 
 def get_diversity(cl, ind, vcf_dir, out_dir):
-	file = '%s%s.coverage_filtered.vcf.gz' % (vcf_dir, ind)
+	file = '%s%s.coverage_filtered_%s.vcf.gz' % (vcf_dir, ind, cov)
 
 	# initialize counter
 	hets = {'diff': 0, 'denom': 0}
@@ -46,10 +49,10 @@ def get_diversity(cl, ind, vcf_dir, out_dir):
 						hets['diff'] += 1
 	f.close()
 
-	out_file = '%sall_clusters.individual_pi.csv' % (out_dir)
+	out_file = '%sall_clusters.individual_pi_coverage%s.csv' % (out_dir, cov)
 	o = open(out_file, 'a')
 	if hets['denom'] > 0:
-		pi = hets['diff'] / float(hets['denom'])
+		pi = hets['diff']  / float(hets['denom'])
 	else:
 		pi = np.nan
 	o.write('%s,%s,%s,%.6f\n' % (cl, ind, hets['denom'], pi))
@@ -57,7 +60,7 @@ def get_diversity(cl, ind, vcf_dir, out_dir):
 
 
 def initiate_file(out_dir):
-	out_file = '%sall_clusters.individual_pi.csv' % (out_dir)
+	out_file = '%sall_clusters.individual_pi_coverage%s.csv' % (out_dir, cov)
 	if not os.path.isfile(out_file):
 		o = open(out_file, 'w')
 		o.write('cluster,ind,denom,pi\n')

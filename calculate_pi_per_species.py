@@ -8,11 +8,14 @@ import gzip
 
 parser = argparse.ArgumentParser(description="Calculate het and Fst.")
 parser.add_argument('--cl', help="Cluster for which to run.")
+parser.add_argument('--cov', help="Coverage depth.")
 args = parser.parse_args()
 cl = args.cl
+cov = args.cov
+cov = int(cov)
 
 mt_file = '/Volumes/heloderma4/sonal/skink_mtDNA/cytb_alignment_30July15.fixed.aln.fa'
-c_file = '/Volumes/heloderma4/sonal/eco_IBD_oz/data/clustering/Ctenotus_Lerista.clustering.revised.csv'
+c_file = '/Volumes/heloderma4/sonal/eco_IBD_oz/data/clustering/Ctenotus_Lerista.clustering.revised2.csv'
 vcf_dir = '/Volumes/heloderma4/sonal/eco_IBD_oz/snp_calling/variants/'
 out_dir = '/Volumes/heloderma4/sonal/eco_IBD_oz/data/diversity/'
 
@@ -35,7 +38,7 @@ def get_clusters(c_file):
         d = d[d.GMYC_RAxML2.notnull()]
         d = d.groupby('GMYC_RAxML2')
 
-        clusters = dict([(name, sorted(group.sample.tolist())) for name, group in d])
+        clusters = dict([(name, sorted(group['sample'].tolist())) for name, group in d])
 
         return clusters
 
@@ -52,14 +55,14 @@ def get_mt_dist(mt, ind1, ind2):
 	for bp1, bp2 in zip(seq1, seq2):
 		if bp1 in allowed and bp2 in allowed:
 			denom += 1
-			if bp1 != bp2:
+			if bp1.upper() != bp2.upper():
 				diff += 1
 	diff = diff / float(denom)
 	return diff
 
 
 def get_diversity(cl, inds, vcf_dir, out_file, mt):
-	file = '%s%s.final.vcf.gz' % (vcf_dir, cl)
+	file = '%s%s.coverage_filtered_%s.vcf.gz' % (vcf_dir, cl, cov)
 
 	pi = {'pi_sum': 0, 'sites': 0}
 	het = {'het_sum': 0, 'sites': 0}
@@ -88,8 +91,12 @@ def get_diversity(cl, inds, vcf_dir, out_file, mt):
 					alleles = dict([(x, alleles.count(x)) for x in set(alleles)])
 					
 					if len(alleles) > 1:
-						allele_sum = float(np.sum(alleles.values()))
-						pi_prop = 2 * (alleles['0'] / allele_sum) * (alleles['1'] / allele_sum) * 1
+						# https://binhe.org/2011/12/29/calculate-nucleotide-diversity-per-base-pair-summation-method/
+						# total alleles
+						n = float(np.sum(alleles.values()))
+						# minor count
+						j = float(np.min(alleles.values()))
+						pi_prop = (2 * j * (n - j)) / (n * (n - 1))
 					else:
 						pi_prop = 0
 					pi['pi_sum'] += pi_prop
@@ -118,7 +125,7 @@ def initialize_file(out_file):
 		o.write('cluster,nInds,pi,pi_sites,het,het_sites,mt_pi\n')
 		o.close()
 
-out_file = '%sspecies_diversity.csv' % out_dir
+out_file = '%sspecies_diversity_cov%s.csv' % (out_dir, cov)
 initialize_file(out_file)
 mt = get_mt(mt_file)
 clusters = get_clusters(c_file)
